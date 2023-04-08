@@ -1,11 +1,1 @@
-function toggleMenu() {
-    var menuList = document.getElementsByClassName("menu-list")[0];
-    var menuButton = document.getElementById("menu-btn");  
-    if(menuList.classList.contains("active")){
-      menuList.classList.remove("active");
-      menuButton.innerHTML = "MENU";
-    }else{
-      menuList.classList.add("active");
-      menuButton.innerHTML = "<div class=\"icon arrow-up\"> </div>";
-    }
-}
+function toggleMenu(){var e=document.getElementsByClassName("menu-list")[0],n=document.getElementById("menu-btn");e.classList.contains("active")?(e.classList.remove("active"),n.innerHTML="MENU"):(e.classList.add("active"),n.innerHTML='<div class="icon arrow-up"> </div>')}

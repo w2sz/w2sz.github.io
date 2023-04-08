@@ -1,0 +1,54 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "W2SZ • All posts by \"gallery\" category",
+    "description": "est. 1911",
+    "home_page_url": "http://w2sz.github.io",
+    "items": [
+        {
+            "id": "http://w2sz.github.io/post/pixie-kit-build/",
+            "url": "http://w2sz.github.io/post/pixie-kit-build/",
+            "title": "Pixie Transceiver Kit Building",
+            "date_published": "2023-02-24T23:23:10.000Z",
+            "content_html": "<p><img src=\"https://i.imgur.com/Ikmi2a5.jpg\" alt=\"Imgur\"></p>\n",
+            "tags": []
+        },
+        {
+            "id": "http://w2sz.github.io/post/fall-2022-collegiate-qso-party/",
+            "url": "http://w2sz.github.io/post/fall-2022-collegiate-qso-party/",
+            "title": "Collegiate QSO Party",
+            "date_published": "2022-10-02T19:20:04.000Z",
+            "content_html": "",
+            "tags": [
+                "contest"
+            ]
+        },
+        {
+            "id": "http://w2sz.github.io/post/fall-2022-group/",
+            "url": "http://w2sz.github.io/post/fall-2022-group/",
+            "title": "Fall 2022 Group",
+            "date_published": "2022-09-23T18:54:53.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "http://w2sz.github.io/post/vhf-sep-22/",
+            "url": "http://w2sz.github.io/post/vhf-sep-22/",
+            "title": "VHF Contest September 2022",
+            "date_published": "2022-09-15T19:20:04.000Z",
+            "content_html": "<p><img src=\"https://i.imgur.com/8x7XT1H.jpg\" alt=\"Imgur\"></p>\n",
+            "tags": [
+                "contest"
+            ]
+        },
+        {
+            "id": "http://w2sz.github.io/post/vhf-jun-22/",
+            "url": "http://w2sz.github.io/post/vhf-jun-22/",
+            "title": "VHF Contest June 2022",
+            "date_published": "2022-06-15T19:20:04.000Z",
+            "content_html": "<p><img src=\"https://i.imgur.com/8M8VX25.jpg\" alt=\"Imgur\"></p>\n",
+            "tags": [
+                "contest"
+            ]
+        }
+    ]
+}

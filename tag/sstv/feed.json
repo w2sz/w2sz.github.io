@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "W2SZ • All posts by \"sstv\" tag",
+    "description": "est. 1911",
+    "home_page_url": "http://w2sz.github.io",
+    "items": [
+        {
+            "id": "http://w2sz.github.io/post/gaming-over-sstv/",
+            "url": "http://w2sz.github.io/post/gaming-over-sstv/",
+            "title": "Experiments in gaming over SSTV",
+            "date_published": "2022-07-01T23:53:49.000Z",
+            "content_html": "<p>B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&#x2F;August 2022: 25-29.</p>\n",
+            "tags": [
+                "publication",
+                "SSTV",
+                "AD2BA Brian"
+            ]
+        },
+        {
+            "id": "http://w2sz.github.io/post/data-sstv/",
+            "url": "http://w2sz.github.io/post/data-sstv/",
+            "title": "DataTV: A protocol for embedding data into SSTV transmissions",
+            "date_published": "2022-03-02T00:55:46.000Z",
+            "content_html": "<p>B. R. Callahan, “DataTV: A protocol for embedding data into SSTV transmissions,” QEX March&#x2F;April 2022: 25-28.</p>\n",
+            "tags": [
+                "publication",
+                "SSTV",
+                "AD2BA Brian"
+            ]
+        }
+    ]
+}
