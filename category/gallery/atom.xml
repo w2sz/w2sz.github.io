@@ -14,6 +14,7 @@
     <category term="KD2TAI Hisen" />
     <category term="SDR" />
     <category term="shack" />
+    <category term="MGEF" />
     <entry>
         <id>http://w2sz.github.io/post/pixie-kit-build/</id>
         <title>Pixie Transceiver Kit Building</title>
@@ -62,6 +63,7 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8x7XT1H.jpg&#34;&gt;&lt;/p&gt;
 </content>
         <category term="contest" />
+        <category term="MGEF" />
         <updated>2022-09-15T19:20:04.000Z</updated>
     </entry>
     <entry>
@@ -71,6 +73,7 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8M8VX25.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/IobOdU6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/bcNdk5u.jpg&#34;&gt;&lt;/p&gt;
 </content>
         <category term="contest" />
+        <category term="MGEF" />
         <updated>2022-06-15T19:20:04.000Z</updated>
     </entry>
     <entry>
@@ -89,6 +92,7 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/gdpY4u4.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/rNEsHpF.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/b2xF3n5.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/Qc9h3Nq.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/qRsGlrp.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/lTXrpNa.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/ipTwjmB.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/t7dyCK9.jpg&#34;&gt;&lt;/p&gt;
 </content>
         <category term="contest" />
+        <category term="MGEF" />
         <updated>2021-09-15T19:20:04.000Z</updated>
     </entry>
     <entry>
@@ -98,6 +102,7 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VdsGYwY.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/F8Kpsrs.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AIyTE02.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/5whLSHO.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/iiNvOFO.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/R7RCmF0.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/nmRUCDc.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/gEnizB3.jpg&#34;&gt;&lt;/p&gt;
 </content>
         <category term="contest" />
+        <category term="MGEF" />
         <updated>2021-06-15T19:20:04.000Z</updated>
     </entry>
 </feed>

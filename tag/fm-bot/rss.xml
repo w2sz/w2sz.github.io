@@ -17,6 +17,7 @@
         <category>KD2TAI Hisen</category>
         <category>SDR</category>
         <category>shack</category>
+        <category>MGEF</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot/</guid>
             <title>An AI-powered transcription bot for FM transmissions</title>
