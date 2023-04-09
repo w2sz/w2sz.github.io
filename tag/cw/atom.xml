@@ -4,15 +4,15 @@
     <title>W2SZ • Posts by &#34;cw&#34; tag</title>
     <link href="http://w2sz.github.io" />
     <updated>2022-09-01T23:52:14.000Z</updated>
+    <category term="publication" />
+    <category term="CW" />
+    <category term="AD2BA Brian" />
     <category term="conference" />
     <category term="contest" />
-    <category term="publication" />
-    <category term="fm-bot" />
     <category term="SSTV" />
-    <category term="AD2BA Brian" />
-    <category term="CW" />
-    <category term="KD2TAI Hisen" />
+    <category term="fm-bot" />
     <category term="SDR" />
+    <category term="KD2TAI Hisen" />
     <category term="shack" />
     <category term="MGEF" />
     <entry>
@@ -22,8 +22,8 @@
         <content type="html">&lt;p&gt;B. R. Callahan, “A first commentary on the CW Record Protocol,” QEX September&amp;#x2F;October 2022: 19-22.&lt;/p&gt;
 </content>
         <category term="publication" />
-        <category term="AD2BA Brian" />
         <category term="CW" />
+        <category term="AD2BA Brian" />
         <updated>2022-09-01T23:52:14.000Z</updated>
     </entry>
     <entry>
@@ -33,8 +33,8 @@
         <content type="html">&lt;p&gt;B. R. Callahan, “Protocol for Formatting and Transmitting Binary Data over Morse CW,” QEX May&amp;#x2F;June 2021: 31-33.&lt;/p&gt;
 </content>
         <category term="publication" />
-        <category term="AD2BA Brian" />
         <category term="CW" />
+        <category term="AD2BA Brian" />
         <updated>2021-05-01T23:57:28.000Z</updated>
     </entry>
 </feed>

@@ -12,10 +12,10 @@
             "content_html": "<p>B. R. Callahan and Z. Zhang, “An AI-powered transcription bot for FM transmissions,” QEX Jan&#x2F;Feb 2023 Issue.</p>\n",
             "tags": [
                 "publication",
-                "fm-bot",
                 "AD2BA Brian",
-                "KD2TAI Hisen",
-                "SDR"
+                "fm-bot",
+                "SDR",
+                "KD2TAI Hisen"
             ]
         },
         {
@@ -25,12 +25,12 @@
             "date_published": "2022-09-18T23:20:45.000Z",
             "content_html": "<p>Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.</p>\n",
             "tags": [
-                "conference",
                 "publication",
-                "fm-bot",
                 "AD2BA Brian",
-                "KD2TAI Hisen",
-                "SDR"
+                "conference",
+                "fm-bot",
+                "SDR",
+                "KD2TAI Hisen"
             ]
         },
         {
@@ -41,8 +41,8 @@
             "content_html": "<p>B. R. Callahan, “A first commentary on the CW Record Protocol,” QEX September&#x2F;October 2022: 19-22.</p>\n",
             "tags": [
                 "publication",
-                "AD2BA Brian",
-                "CW"
+                "CW",
+                "AD2BA Brian"
             ]
         },
         {
@@ -53,8 +53,8 @@
             "content_html": "<p>B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&#x2F;August 2022: 25-29.</p>\n",
             "tags": [
                 "publication",
-                "SSTV",
-                "AD2BA Brian"
+                "AD2BA Brian",
+                "SSTV"
             ]
         },
         {
@@ -65,8 +65,8 @@
             "content_html": "<p>B. R. Callahan, “DataTV: A protocol for embedding data into SSTV transmissions,” QEX March&#x2F;April 2022: 25-28.</p>\n",
             "tags": [
                 "publication",
-                "SSTV",
-                "AD2BA Brian"
+                "AD2BA Brian",
+                "SSTV"
             ]
         },
         {
@@ -77,8 +77,8 @@
             "content_html": "<p>B. R. Callahan, “Protocol for Formatting and Transmitting Binary Data over Morse CW,” QEX May&#x2F;June 2021: 31-33.</p>\n",
             "tags": [
                 "publication",
-                "AD2BA Brian",
-                "CW"
+                "CW",
+                "AD2BA Brian"
             ]
         }
     ]

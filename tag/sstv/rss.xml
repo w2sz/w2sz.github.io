@@ -7,15 +7,15 @@
         <language>en</language>
         <pubDate>Fri, 01 Jul 2022 19:53:49 -0400</pubDate>
         <lastBuildDate>Fri, 01 Jul 2022 19:53:49 -0400</lastBuildDate>
+        <category>publication</category>
+        <category>CW</category>
+        <category>AD2BA Brian</category>
         <category>conference</category>
         <category>contest</category>
-        <category>publication</category>
-        <category>fm-bot</category>
         <category>SSTV</category>
-        <category>AD2BA Brian</category>
-        <category>CW</category>
-        <category>KD2TAI Hisen</category>
+        <category>fm-bot</category>
         <category>SDR</category>
+        <category>KD2TAI Hisen</category>
         <category>shack</category>
         <category>MGEF</category>
         <item>
@@ -23,8 +23,8 @@
             <title>Experiments in gaming over SSTV</title>
             <link>http://w2sz.github.io/post/gaming-over-sstv/</link>
             <category>publication</category>
-            <category>SSTV</category>
             <category>AD2BA Brian</category>
+            <category>SSTV</category>
             <pubDate>Fri, 01 Jul 2022 19:53:49 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&amp;#x2F;August 2022: 25-29.&lt;/p&gt;
  ]]></description>
@@ -34,8 +34,8 @@
             <title>DataTV: A protocol for embedding data into SSTV transmissions</title>
             <link>http://w2sz.github.io/post/data-sstv/</link>
             <category>publication</category>
-            <category>SSTV</category>
             <category>AD2BA Brian</category>
+            <category>SSTV</category>
             <pubDate>Tue, 01 Mar 2022 19:55:46 -0500</pubDate>
             <description><![CDATA[ &lt;p&gt;B. R. Callahan, “DataTV: A protocol for embedding data into SSTV transmissions,” QEX March&amp;#x2F;April 2022: 25-28.&lt;/p&gt;
  ]]></description>
