@@ -3,25 +3,291 @@
     <id>http://w2sz.github.io</id>
     <title>W2SZ</title>
     <link href="http://w2sz.github.io" />
-    <updated>2023-04-07T17:16:51.338Z</updated>
+    <updated>2023-04-15T00:19:47.000Z</updated>
+    <category term="conference" />
+    <category term="publication" />
+    <category term="CW" />
+    <category term="AD2BA Brian" />
+    <category term="SSTV" />
+    <category term="contest" />
+    <category term="fm-bot" />
+    <category term="SDR" />
+    <category term="KD2TAI Hisen" />
+    <category term="welcome" />
+    <category term="license" />
+    <category term="shack" />
+    <category term="MGEF" />
     <entry>
-        <id>http://w2sz.github.io/post/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+        <id>http://w2sz.github.io/post/sdr-transceiver/</id>
+        <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/sdr-transceiver/"/>
+        <content type="html">&lt;p&gt;Z. Zhang, “A Minimal Software-Defined Radio VHF&amp;#x2F;UHF&amp;#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.&lt;/p&gt;
 </content>
-        <updated>2023-04-07T17:16:51.338Z</updated>
+        <category term="conference" />
+        <category term="publication" />
+        <category term="SDR" />
+        <category term="KD2TAI Hisen" />
+        <updated>2023-04-15T00:19:47.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/new-licensee/</id>
+        <title>Things To Do With Your License</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/new-licensee/"/>
+        <content type="html">&lt;p&gt;Congratulations on getting your ham radio license! Now that you’re officially a ham operator, you may be wondering what you can do with your new license. Don’t worry, there are plenty of activities and opportunities available to you as a new ham.&lt;/p&gt;
+&lt;p&gt;Getting your ham radio license is just the beginning of a rewarding and exciting journey in the world of amateur radio. There are many different activities and opportunities available to new hams, from making contacts on the air to getting involved in public service. Here are 6 things new hams can do after passing their license exam:&lt;/p&gt;
+&lt;h2 id=&#34;Get-on-the-air&#34;&gt;&lt;a href=&#34;#Get-on-the-air&#34; class=&#34;headerlink&#34; title=&#34;Get on the air&#34;&gt;&lt;/a&gt;Get on the air&lt;/h2&gt;&lt;p&gt;One of the most exciting things about getting your ham radio license is being able to get on the air and start making contacts. Whether you prefer voice, Morse code, or digital modes, there’s a whole world of hams out there waiting to make contact with you.&lt;/p&gt;
+&lt;p&gt;There are a few ways to find other hams to contact:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Listen: Start by listening to the bands to get a sense of what’s happening. You can find a list of active frequencies and modes on websites like DX Summit or DX Watch. Listen to different frequencies and modes to see what interests you.&lt;/li&gt;
+&lt;li&gt;Join a net: Nets are scheduled gatherings of hams who check in and share information. Joining a net is a great way to meet other hams and practice your communication skills.&lt;/li&gt;
+&lt;li&gt;Call CQ: When you’re ready to make your first contact, call CQ (meaning “seek you”) on a frequency where you think other hams may be listening. You can also answer other hams’ CQ calls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once you’ve made a contact, be sure to exchange call signs, signal reports, and any other information that’s relevant. You may also want to exchange QSL cards, which are like postcards that confirm your contact. QSL cards are a great way to keep track of your contacts and to make new friends in the ham radio community.&lt;/p&gt;
+&lt;h2 id=&#34;Build-your-own-equipment&#34;&gt;&lt;a href=&#34;#Build-your-own-equipment&#34; class=&#34;headerlink&#34; title=&#34;Build your own equipment&#34;&gt;&lt;/a&gt;Build your own equipment&lt;/h2&gt;&lt;p&gt;Building your own equipment can be a fun and rewarding way to explore the technical side of ham radio. There are many kits and projects available that are designed specifically for new hams, so you don’t need to be an expert to get started.&lt;/p&gt;
+&lt;h2 id=&#34;Contest&#34;&gt;&lt;a href=&#34;#Contest&#34; class=&#34;headerlink&#34; title=&#34;Contest&#34;&gt;&lt;/a&gt;Contest&lt;/h2&gt;&lt;p&gt;Participating in contests can be a fun and exciting way to test your skills and to make contacts with hams around the world. Whether you’re a casual operator or a serious contester, there are contests to suit all skill levels and interests.&lt;/p&gt;
+&lt;h2 id=&#34;Get-involved-in-public-service&#34;&gt;&lt;a href=&#34;#Get-involved-in-public-service&#34; class=&#34;headerlink&#34; title=&#34;Get involved in public service&#34;&gt;&lt;/a&gt;Get involved in public service&lt;/h2&gt;&lt;p&gt;Getting involved in public service is a great way to use your ham radio skills to help others. Hams can provide communication support for events like marathons, parades, and festivals, or for emergency response efforts like natural disasters or search and rescue operations.&lt;/p&gt;
+&lt;h2 id=&#34;Learn-new-skills&#34;&gt;&lt;a href=&#34;#Learn-new-skills&#34; class=&#34;headerlink&#34; title=&#34;Learn new skills&#34;&gt;&lt;/a&gt;Learn new skills&lt;/h2&gt;&lt;p&gt;As a ham operator, you have the opportunity to learn a variety of new skills. Whether it’s learning Morse code, experimenting with digital modes, or building your own equipment, there’s always something new to learn in the world of ham radio.&lt;/p&gt;
+&lt;h2 id=&#34;Share-your-passion&#34;&gt;&lt;a href=&#34;#Share-your-passion&#34; class=&#34;headerlink&#34; title=&#34;Share your passion&#34;&gt;&lt;/a&gt;Share your passion&lt;/h2&gt;&lt;p&gt;As a new ham, you have the opportunity to share your passion for ham radio with others. You can introduce your friends and family to the hobby, or get involved in community outreach programs to promote the benefits of ham radio.&lt;/p&gt;
+&lt;p&gt;In conclusion, whatever your interests or goals may be, there is something for everyone in the ham radio community. So get out there, explore, and have fun!&lt;/p&gt;
+</content>
+        <category term="welcome" />
+        <updated>2023-04-10T19:05:33.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/join/</id>
+        <title>Join W2SZ</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/join/"/>
+        <content type="html">&lt;p&gt;If you’re interested in joining W2SZ, the college radio club based at Rensselaer Polytechnic Institute, it’s easy to get started. The first step is to send an email to one of the club officers, whose email addresses are listed on the club’s contact page.&lt;/p&gt;
+&lt;p&gt;In your email, introduce yourself and express your interest in joining the club. You can also ask any questions you may have about the club and its activities. The club officers will be happy to answer your questions and provide you with more information about how to get involved.&lt;/p&gt;
+&lt;p&gt;Once you’ve made contact with the club officers, they will be able to provide you with more information about upcoming meetings and events. You’ll also have the opportunity to attend a meeting and get to know the other members of the club.&lt;/p&gt;
+&lt;p&gt;Joining W2SZ is a great way to learn more about amateur radio and develop valuable skills in electronics, communications, and leadership. So, don’t hesitate to send that email and get started on your amateur radio journey!&lt;/p&gt;
+</content>
+        <category term="welcome" />
+        <updated>2023-04-10T18:54:56.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/introduction/</id>
+        <title>What is Ham Radio</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/introduction/"/>
+        <content type="html">&lt;p&gt;Ham radio, also known as amateur radio, is a hobby that allows individuals to communicate with others around the world using wireless communication equipment. It is a fascinating and challenging pastime that can offer a range of benefits, including technical knowledge, social connections, and emergency preparedness skills. Ham radio enthusiasts, or “hams,” use a variety of equipment to communicate with other hams around the globe, including radios, antennas, and computers.&lt;/p&gt;
+&lt;p&gt;W2SZ is known for its active participation in contests, where members compete with other hams around the world to see who can make the most contacts in a given amount of time. The club also offers technical workshops and training sessions to help members learn more about radio equipment, antennas, and other related topics.&lt;/p&gt;
+&lt;p&gt;One of the unique aspects of W2SZ is its focus on experimentation and innovation. Members are encouraged to design and build their own equipment, and the club has a long history of developing new and innovative technologies for the amateur radio community.&lt;/p&gt;
+&lt;p&gt;Joining W2SZ is an excellent way for college students to get involved in amateur radio and learn from experienced hams. Members have the opportunity to participate in a range of activities and develop valuable skills in electronics, communications, and leadership. So, if you’re interested in amateur radio and want to be part of a vibrant and innovative community, consider joining W2SZ at Rensselaer Polytechnic Institute.&lt;/p&gt;
+</content>
+        <category term="welcome" />
+        <updated>2023-04-10T18:51:22.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/licensing/</id>
+        <title>Getting Licensed</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/licensing/"/>
+        <content type="html">&lt;p&gt;Getting a ham radio license is an important step for anyone who wants to legally operate an amateur radio station. The license demonstrates that you have passed an exam that shows you understand the basic concepts of radio communication, regulations, and safety. Here are some important things to know about getting a ham radio license:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Licensing Levels: There are three license levels in the US, known as Technician, General, and Extra. The higher the level, the more privileges you have in terms of the frequencies and modes you can use, as well as the power levels you can transmit with.&lt;/li&gt;
+&lt;li&gt;Exam: You must pass a written exam for each license level you wish to obtain. The exam covers topics such as radio theory, regulations, and operating practices. Study guides and practice exams are available online to help you prepare.&lt;/li&gt;
+&lt;li&gt;FCC: In the United States, ham radio licenses are issued by the Federal Communications Commission (FCC). Once you pass the exam, you can apply for a license through the FCC’s Universal Licensing System (ULS). There is a fee for the exam, and also a fee to apply for the license.&lt;/li&gt;
+&lt;li&gt;Call Sign: Once you have your license, you will be assigned a unique call sign that identifies you as a licensed ham operator. The call sign will be used when you transmit on the air.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Getting a ham radio license is not only important for legal reasons, but it is also a valuable way to learn more about radio communication and become part of a vibrant community of amateur radio enthusiasts. So, if you’re interested in getting started with ham radio, consider studying for the exam and obtaining your license.&lt;/p&gt;
+&lt;h2 id=&#34;Obtain-Your-FCC-Reference-Number-FRN&#34;&gt;&lt;a href=&#34;#Obtain-Your-FCC-Reference-Number-FRN&#34; class=&#34;headerlink&#34; title=&#34;Obtain Your FCC Reference Number (FRN)&#34;&gt;&lt;/a&gt;Obtain Your FCC Reference Number (FRN)&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://apps.fcc.gov/cores/userLogin.do&#34;&gt;FCC Registration System (CORES) website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Step 2: Click on the “Register” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 3: You will be prompted to create an FCC Username and Password. Follow the prompts and create your account.&lt;/p&gt;
+&lt;p&gt;Step 4: Once you have created your account, log in to the FCC Registration System (CORES) website using your FCC Username and Password.&lt;/p&gt;
+&lt;p&gt;Step 5: On the CORES homepage, click on the “Manage FRNs” button.&lt;/p&gt;
+&lt;p&gt;Step 6: If you do not have an FRN number, click on the “Register New FRN” button.&lt;/p&gt;
+&lt;p&gt;Step 7: You will be prompted to enter your personal information, such as your name, address, phone number, and email address.&lt;/p&gt;
+&lt;p&gt;Step 8: Once you have entered all of the required information, click on the “Submit” button.&lt;/p&gt;
+&lt;p&gt;Step 9: You will receive a confirmation email from the FCC with your newly assigned FRN number.&lt;/p&gt;
+&lt;h2 id=&#34;Register-An-Online-Exam-Session&#34;&gt;&lt;a href=&#34;#Register-An-Online-Exam-Session&#34; class=&#34;headerlink&#34; title=&#34;Register An Online Exam Session&#34;&gt;&lt;/a&gt;Register An Online Exam Session&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; website and create an account by clicking on the “Sign Up” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 2: Once you have created an account, log in to your account using your email address and password.&lt;/p&gt;
+&lt;p&gt;Step 3: Click on the “Dashboard” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 4: Scroll down to the “Exam Session” section and click on the “Register” button next to the session you want to register for.&lt;/p&gt;
+&lt;p&gt;Step 5: You will be prompted to confirm your registration and agree to the exam rules and regulations. You may need to provide your FRN.&lt;/p&gt;
+&lt;p&gt;Step 6: Once you have confirmed your registration, you will receive an email with further instructions on how to prepare for the exam.&lt;/p&gt;
+&lt;p&gt;Step 7: On the day of the exam, log in to your account on &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; and click on the “Join Exam” button next to the session you registered for.&lt;/p&gt;
+&lt;p&gt;Step 8: Follow the instructions to take the online exam.&lt;/p&gt;
+&lt;p&gt;Step 9: After completing the exam, you will receive your exam results immediately.&lt;/p&gt;
+</content>
+        <category term="welcome" />
+        <category term="license" />
+        <updated>2023-04-10T01:39:42.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/subscribe/</id>
+        <title>Subscribing W2SZ</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/subscribe/"/>
+        <content type="html">&lt;p&gt;Subscribing to W2SZ is quite easy, and there are several ways you can do it. Here’s a step-by-step tutorial on how to subscribe to W2SZ using RSS and how to use Feedrabbit service to forward it to emails, if preferred.&lt;/p&gt;
+&lt;h2 id=&#34;RSS&#34;&gt;&lt;a href=&#34;#RSS&#34; class=&#34;headerlink&#34; title=&#34;RSS&#34;&gt;&lt;/a&gt;RSS&lt;/h2&gt;&lt;p&gt;To subscribe to W2SZ using RSS, you will need an RSS reader. There are many different RSS readers available, both as desktop applications and web-based services. Some popular options include Thunderbird, Feedly, Inoreader, and NewsBlur. For the purpose of this tutorial, we will use Thunderbird as an example.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Thunderbird and select “File” from the top menu.&lt;/li&gt;
+&lt;li&gt;Click on “New” and then select “Other Accounts” from the drop-down menu.&lt;/li&gt;
+&lt;li&gt;Choose “RSS News &amp;amp; Blogs” and click on “Next”.&lt;/li&gt;
+&lt;li&gt;Enter the URL of the RSS feed &lt;strong&gt;&lt;a href=&#34;http://w2sz.github.io/rss.xml&#34;&gt;http://w2sz.github.io/rss.xml&lt;/a&gt;&lt;/strong&gt; and click on “Next”.&lt;/li&gt;
+&lt;li&gt;Thunderbird will automatically detect the feed’s title and URL. You can change the title if you want.&lt;/li&gt;
+&lt;li&gt;Select the folder where you want to store the RSS feed in Thunderbird. You can create a new folder by clicking on “New Folder”.&lt;/li&gt;
+&lt;li&gt;Click on “Finish” to complete the subscription process.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now that you’ve subscribed to the RSS feed, you can access it by clicking on the folder where you saved it in Thunderbird. The feed’s articles will appear in the folder, and you can click on each one to read it.&lt;/p&gt;
+&lt;p&gt;If you want to unsubscribe from an RSS feed in Thunderbird, you can simply right-click on the folder and select “Properties”. From there, click on “Unsubscribe” and the folder will be removed from Thunderbird.&lt;/p&gt;
+&lt;h2 id=&#34;Email&#34;&gt;&lt;a href=&#34;#Email&#34; class=&#34;headerlink&#34; title=&#34;Email&#34;&gt;&lt;/a&gt;Email&lt;/h2&gt;&lt;p&gt;You can use a service like Feedrabbit to forward the feed to your email address. Feedrabbit is a free web-based service that allows you to receive RSS feeds in your email inbox.&lt;/p&gt;
+&lt;p&gt;To get started with Feedrabbit, you will need to create an account on their website. Once you have done this, you can add the W2SZ RSS feed to your account by entering the feed URL into the “Add a Feed” box. After you have added the feed, you can choose to have the feed items delivered to your email address on a real-time, daily, or weekly basis.&lt;/p&gt;
+&lt;p&gt;That’s it! By following these steps, you should now be subscribed to the W2SZ RSS feed and receiving updates via email thanks to Feedrabbit.&lt;/p&gt;
+</content>
+        <updated>2023-04-08T22:04:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/qso-today-mar-23/</id>
+        <title>QSO Today Ham Expo March 2023</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/qso-today-mar-23/"/>
+        <content type="html">&lt;h2 id=&#34;How-to-Build-An-AI-powered-Transcription-Bot-for-FM-Transmissions&#34;&gt;&lt;a href=&#34;#How-to-Build-An-AI-powered-Transcription-Bot-for-FM-Transmissions&#34; class=&#34;headerlink&#34; title=&#34;How to Build An AI-powered Transcription Bot for FM Transmissions&#34;&gt;&lt;/a&gt;How to Build An AI-powered Transcription Bot for FM Transmissions&lt;/h2&gt;&lt;p&gt;Presentors: Brian Callahan AD2BA, Zhemin Zhang KD2TAI&lt;br&gt;Moderator: Vince d’Eon VE6LK&lt;/p&gt;
+&lt;p&gt;Collateral or Slides:&lt;br&gt;&lt;a href=&#34;https://v5.airtableusercontent.com/v1/15/15/1680919200000/T5qGbP0Yo4a4KDfxzobarA/XIiuDfImnNweaiLg7O3z0lc83H8VnKYT0qCN894bpDL_urZal3dNxdMqDkZKYXTXT44zRh9bnoJzc6EQMZVQV402JSqm0mp2F7rXawn6YIrAq210jhX4gcxaBovT11GxJS1xsS9tW0p6XJG6uvROfuDnnaHuqRQsllonc-NPd_Y/8f5Hlx1QGxRWBLk5DodpTs5RtmeceS26nEztjn1NIxc&#34;&gt;FMBot - QSO Today March 2023 Brian Calllahan AD2BA and Hisen Zhang KD2TAI.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Level: General Audience&lt;/p&gt;
+&lt;p&gt;Category: Controllers - Raspberry Pi, Arduino, Future of Amateur Radio, Homebrew and Construction, New License - Now What?, Software and Satellites, General Interest, New License- Now What?, SDR Software Defined Radio, Software and Services, Station Operation&lt;/p&gt;
+&lt;p&gt;Time:&lt;/p&gt;
+&lt;p&gt;PDT: March 25, 2023, 4:00 pm&lt;br&gt;UTC: March 25, 2023, 11:00 pm&lt;br&gt;Duration: 1 hour&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Based on the January&amp;#x2F;February 2023 QEX article of the same name and subsequent ARRL-TAPR conference paper, this presentation discusses and demonstrates a bot, which can be built using as little as an inexpensive SDR antenna, a Raspberry Pi or laptop, and open source Artificial Intelligence&amp;#x2F;Machine Learning software, that can listen to VHF&amp;#x2F;UHF frequencies for amateur radio transmissions and transcribe those transmissions into text. We will discuss and demonstrate potential uses of the transcribed text and the bot generally. The bot can augment anyone’s experience and enjoyment of being on the air, from new operators who may only have their Technician license to seasoned operators.&lt;/p&gt;
+&lt;h2 id=&#34;SDR-Rover-Kit-The-Next-Generation-Setup-for-Amateur-Radio-Contesting&#34;&gt;&lt;a href=&#34;#SDR-Rover-Kit-The-Next-Generation-Setup-for-Amateur-Radio-Contesting&#34; class=&#34;headerlink&#34; title=&#34;SDR Rover Kit: The Next Generation Setup for Amateur Radio Contesting&#34;&gt;&lt;/a&gt;SDR Rover Kit: The Next Generation Setup for Amateur Radio Contesting&lt;/h2&gt;&lt;p&gt;Presentors: Zhemin Zhang KD2TAI&lt;/p&gt;
+&lt;p&gt;Collateral or Slides:&lt;br&gt;&lt;a href=&#34;https://v5.airtableusercontent.com/v1/15/15/1680919200000/GqyBDGex0u2bd6G_vWPmdA/riGZN7pQfnQqOSdNk61Mtobr_aqofLLPLXVg245NjTIV0CPF6yJexMtBmyuXNoKDzWykBdMYCks-EIn88uhD5mUbjCVQJKkCGNqMycxR-I-OogpvIREIx1zkJwlGq78t-o5W0TgzsfccHiFT4U809Q/M41VPuwTTk2k7MXraiXFPDt3eJNQ2xgtFJISgflmKXU&#34;&gt;SDR Rover Kit - QSO Today March 2023 Zhemin Zhang KD2TAI.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Level: Intermediate&lt;br&gt;Category: Contesting and DX, Future of Amateur Radio, Homebrew and Construction, Field Operation, SDR Software Defined Radio&lt;/p&gt;
+&lt;p&gt;Time:&lt;/p&gt;
+&lt;p&gt;PDT: March 26, 2023, 10:00 am&lt;br&gt;UTC: March 26, 2023, 5:00 pm&lt;br&gt;Duration: 1 hour&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The SDR Rover Kit project uses off-the-shelf software-defined radio for an 8-band low-power contesting solution under $400. The idea is to keep the system “simple and stupid” by using wideband components. The prototype has been proven effective in lab and field tests. However, it takes additional optimizations to achieve ideal performance.&lt;/p&gt;
+</content>
+        <category term="conference" />
+        <updated>2023-03-25T22:40:41.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/pixie-kit-build/</id>
+        <title>Pixie Transceiver Kit Building</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/pixie-kit-build/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Ikmi2a5.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <updated>2023-02-24T23:23:10.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/shack-leak/</id>
+        <title>Shack Roof Leak</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/shack-leak/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/G8FeIRH.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/Uffl6w3.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="shack" />
+        <updated>2023-01-12T18:17:10.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/fmbot/</id>
+        <title>An AI-powered transcription bot for FM transmissions</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/fmbot/"/>
+        <content type="html">&lt;p&gt;B. R. Callahan and Z. Zhang, “An AI-powered transcription bot for FM transmissions,” QEX Jan&amp;#x2F;Feb 2023 Issue.&lt;/p&gt;
+</content>
+        <category term="publication" />
+        <category term="AD2BA Brian" />
+        <category term="fm-bot" />
+        <category term="SDR" />
+        <category term="KD2TAI Hisen" />
+        <updated>2023-01-02T00:28:38.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/union-3304/</id>
+        <title>The New Shack in 3304</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/union-3304/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/UF4ZhbE.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="shack" />
+        <updated>2022-12-16T18:15:08.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/fall-2022-collegiate-qso-party/</id>
+        <title>Collegiate QSO Party</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/fall-2022-collegiate-qso-party/"/>
+        <content type="html"></content>
+        <category term="contest" />
+        <updated>2022-10-02T19:20:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/fall-2022-group/</id>
+        <title>Fall 2022 Group</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/fall-2022-group/"/>
+        <content type="html"></content>
+        <updated>2022-09-23T18:54:53.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/fmbot-analysis/</id>
+        <title>Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/fmbot-analysis/"/>
+        <content type="html">&lt;p&gt;Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.&lt;/p&gt;
+</content>
+        <category term="conference" />
+        <category term="publication" />
+        <category term="AD2BA Brian" />
+        <category term="fm-bot" />
+        <category term="SDR" />
+        <category term="KD2TAI Hisen" />
+        <updated>2022-09-18T23:20:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/qso-today-sep-22/</id>
+        <title>QSO Today Ham Expo September 2022</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/qso-today-sep-22/"/>
+        <content type="html">&lt;h2 id=&#34;HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34;&gt;&lt;a href=&#34;#HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34; class=&#34;headerlink&#34; title=&#34;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&#34;&gt;&lt;/a&gt;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&lt;/h2&gt;&lt;p&gt;Presentors: Zhemin Zhang KD2TAI&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1VwyWAMVfaRQOz8yNxs5SlrST_Bv64-HTUiovT-y2dvU&#34;&gt;Slides&lt;/a&gt; | &lt;a href=&#34;https://github.com/HisenZhang/DTMF-App&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Is it possible to send text and images by just dialing on your HT keypads? Have you ever wondered how the dial tones work? In this talk, we discuss a simple protocol to transfer data using your HTs by encoding information, including text, images, or arbitrary files, into DTMF tones: this minimal yet functioning setup serves as an introduction to modern digital communication systems.&lt;/p&gt;
+</content>
+        <category term="conference" />
+        <updated>2022-09-17T22:40:41.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/vhf-sep-22/</id>
+        <title>VHF Contest September 2022</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/vhf-sep-22/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8x7XT1H.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="contest" />
+        <category term="MGEF" />
+        <updated>2022-09-15T19:20:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/cw-record-protocol/</id>
+        <title>A First Commentary on the CW Record Protocol</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/cw-record-protocol/"/>
+        <content type="html">&lt;p&gt;B. R. Callahan, “A first commentary on the CW Record Protocol,” QEX September&amp;#x2F;October 2022: 19-22.&lt;/p&gt;
+</content>
+        <category term="publication" />
+        <category term="CW" />
+        <category term="AD2BA Brian" />
+        <updated>2022-09-01T23:52:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/gaming-over-sstv/</id>
+        <title>Experiments in gaming over SSTV</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/gaming-over-sstv/"/>
+        <content type="html">&lt;p&gt;B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&amp;#x2F;August 2022: 25-29.&lt;/p&gt;
+</content>
+        <category term="publication" />
+        <category term="AD2BA Brian" />
+        <category term="SSTV" />
+        <updated>2022-07-01T23:53:49.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/vhf-jun-22/</id>
+        <title>VHF Contest June 2022</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/vhf-jun-22/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8M8VX25.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/IobOdU6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/bcNdk5u.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="contest" />
+        <category term="MGEF" />
+        <updated>2022-06-15T19:20:04.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/shack-work-in-progress/</id>
+        <title>Shack Work In Progress</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/shack-work-in-progress/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/iN6ZjLp.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/cptp6ra.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="shack" />
+        <updated>2022-06-04T17:17:10.000Z</updated>
     </entry>
 </feed>
