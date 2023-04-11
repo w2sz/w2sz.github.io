@@ -4,25 +4,33 @@
     <title>W2SZ • Posts by &#34;license&#34; tag</title>
     <link href="http://w2sz.github.io" />
     <updated>2023-04-10T01:39:42.000Z</updated>
+    <category term="conference" />
     <category term="publication" />
     <category term="CW" />
     <category term="AD2BA Brian" />
-    <category term="conference" />
     <category term="SSTV" />
     <category term="contest" />
     <category term="fm-bot" />
     <category term="SDR" />
     <category term="KD2TAI Hisen" />
+    <category term="N1IHA Nick" />
     <category term="shack" />
     <category term="MGEF" />
-    <category term="license" />
     <category term="welcome" />
-    <category term="N1IHA Nick" />
+    <category term="license" />
     <entry>
         <id>http://w2sz.github.io/post/licensing/</id>
         <title>Getting Licensed</title>
         <link rel="alternate" href="http://w2sz.github.io/post/licensing/"/>
-        <content type="html">&lt;h2 id=&#34;Obtain-Your-FCC-Reference-Number-FRN&#34;&gt;&lt;a href=&#34;#Obtain-Your-FCC-Reference-Number-FRN&#34; class=&#34;headerlink&#34; title=&#34;Obtain Your FCC Reference Number (FRN)&#34;&gt;&lt;/a&gt;Obtain Your FCC Reference Number (FRN)&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://apps.fcc.gov/cores/userLogin.do&#34;&gt;FCC Registration System (CORES) website&lt;/a&gt;.&lt;/p&gt;
+        <content type="html">&lt;p&gt;Getting a ham radio license is an important step for anyone who wants to legally operate an amateur radio station. The license demonstrates that you have passed an exam that shows you understand the basic concepts of radio communication, regulations, and safety. Here are some important things to know about getting a ham radio license:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Licensing Levels: There are three license levels in the US, known as Technician, General, and Extra. The higher the level, the more privileges you have in terms of the frequencies and modes you can use, as well as the power levels you can transmit with.&lt;/li&gt;
+&lt;li&gt;Exam: You must pass a written exam for each license level you wish to obtain. The exam covers topics such as radio theory, regulations, and operating practices. Study guides and practice exams are available online to help you prepare.&lt;/li&gt;
+&lt;li&gt;FCC: In the United States, ham radio licenses are issued by the Federal Communications Commission (FCC). Once you pass the exam, you can apply for a license through the FCC’s Universal Licensing System (ULS). There is a fee for the exam, and also a fee to apply for the license.&lt;/li&gt;
+&lt;li&gt;Call Sign: Once you have your license, you will be assigned a unique call sign that identifies you as a licensed ham operator. The call sign will be used when you transmit on the air.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Getting a ham radio license is not only important for legal reasons, but it is also a valuable way to learn more about radio communication and become part of a vibrant community of amateur radio enthusiasts. So, if you’re interested in getting started with ham radio, consider studying for the exam and obtaining your license.&lt;/p&gt;
+&lt;h2 id=&#34;Obtain-Your-FCC-Reference-Number-FRN&#34;&gt;&lt;a href=&#34;#Obtain-Your-FCC-Reference-Number-FRN&#34; class=&#34;headerlink&#34; title=&#34;Obtain Your FCC Reference Number (FRN)&#34;&gt;&lt;/a&gt;Obtain Your FCC Reference Number (FRN)&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://apps.fcc.gov/cores/userLogin.do&#34;&gt;FCC Registration System (CORES) website&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Step 2: Click on the “Register” button on the top right corner of the page.&lt;/p&gt;
 &lt;p&gt;Step 3: You will be prompted to create an FCC Username and Password. Follow the prompts and create your account.&lt;/p&gt;
 &lt;p&gt;Step 4: Once you have created your account, log in to the FCC Registration System (CORES) website using your FCC Username and Password.&lt;/p&gt;
@@ -41,8 +49,8 @@
 &lt;p&gt;Step 8: Follow the instructions to take the online exam.&lt;/p&gt;
 &lt;p&gt;Step 9: After completing the exam, you will receive your exam results immediately.&lt;/p&gt;
 </content>
-        <category term="license" />
         <category term="welcome" />
+        <category term="license" />
         <updated>2023-04-10T01:39:42.000Z</updated>
     </entry>
 </feed>

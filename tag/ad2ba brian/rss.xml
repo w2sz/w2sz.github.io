@@ -7,20 +7,20 @@
         <language>en</language>
         <pubDate>Sun, 01 Jan 2023 19:28:38 -0500</pubDate>
         <lastBuildDate>Sun, 01 Jan 2023 19:28:38 -0500</lastBuildDate>
+        <category>conference</category>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
-        <category>conference</category>
         <category>SSTV</category>
         <category>contest</category>
         <category>fm-bot</category>
         <category>SDR</category>
         <category>KD2TAI Hisen</category>
+        <category>N1IHA Nick</category>
         <category>shack</category>
         <category>MGEF</category>
-        <category>license</category>
         <category>welcome</category>
-        <category>N1IHA Nick</category>
+        <category>license</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot/</guid>
             <title>An AI-powered transcription bot for FM transmissions</title>
@@ -38,9 +38,9 @@
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot-analysis/</guid>
             <title>Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions</title>
             <link>http://w2sz.github.io/post/fmbot-analysis/</link>
+            <category>conference</category>
             <category>publication</category>
             <category>AD2BA Brian</category>
-            <category>conference</category>
             <category>fm-bot</category>
             <category>SDR</category>
             <category>KD2TAI Hisen</category>

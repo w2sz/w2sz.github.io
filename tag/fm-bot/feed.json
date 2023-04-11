@@ -25,9 +25,9 @@
             "date_published": "2022-09-18T23:20:45.000Z",
             "content_html": "<p>Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.</p>\n",
             "tags": [
+                "conference",
                 "publication",
                 "AD2BA Brian",
-                "conference",
                 "fm-bot",
                 "SDR",
                 "KD2TAI Hisen"
