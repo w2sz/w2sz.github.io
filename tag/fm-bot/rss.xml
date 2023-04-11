@@ -18,6 +18,9 @@
         <category>KD2TAI Hisen</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>license</category>
+        <category>welcome</category>
+        <category>N1IHA Nick</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot/</guid>
             <title>An AI-powered transcription bot for FM transmissions</title>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://w2sz.github.io</id>
+    <title>W2SZ • Posts by &#34;license&#34; tag</title>
+    <link href="http://w2sz.github.io" />
+    <updated>2023-04-10T01:39:42.000Z</updated>
+    <category term="publication" />
+    <category term="CW" />
+    <category term="AD2BA Brian" />
+    <category term="conference" />
+    <category term="SSTV" />
+    <category term="contest" />
+    <category term="fm-bot" />
+    <category term="SDR" />
+    <category term="KD2TAI Hisen" />
+    <category term="shack" />
+    <category term="MGEF" />
+    <category term="license" />
+    <category term="welcome" />
+    <category term="N1IHA Nick" />
+    <entry>
+        <id>http://w2sz.github.io/post/licensing/</id>
+        <title>Getting Licensed</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/licensing/"/>
+        <content type="html">&lt;h2 id=&#34;Obtain-Your-FCC-Reference-Number-FRN&#34;&gt;&lt;a href=&#34;#Obtain-Your-FCC-Reference-Number-FRN&#34; class=&#34;headerlink&#34; title=&#34;Obtain Your FCC Reference Number (FRN)&#34;&gt;&lt;/a&gt;Obtain Your FCC Reference Number (FRN)&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://apps.fcc.gov/cores/userLogin.do&#34;&gt;FCC Registration System (CORES) website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Step 2: Click on the “Register” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 3: You will be prompted to create an FCC Username and Password. Follow the prompts and create your account.&lt;/p&gt;
+&lt;p&gt;Step 4: Once you have created your account, log in to the FCC Registration System (CORES) website using your FCC Username and Password.&lt;/p&gt;
+&lt;p&gt;Step 5: On the CORES homepage, click on the “Manage FRNs” button.&lt;/p&gt;
+&lt;p&gt;Step 6: If you do not have an FRN number, click on the “Register New FRN” button.&lt;/p&gt;
+&lt;p&gt;Step 7: You will be prompted to enter your personal information, such as your name, address, phone number, and email address.&lt;/p&gt;
+&lt;p&gt;Step 8: Once you have entered all of the required information, click on the “Submit” button.&lt;/p&gt;
+&lt;p&gt;Step 9: You will receive a confirmation email from the FCC with your newly assigned FRN number.&lt;/p&gt;
+&lt;h2 id=&#34;Register-An-Online-Exam-Session&#34;&gt;&lt;a href=&#34;#Register-An-Online-Exam-Session&#34; class=&#34;headerlink&#34; title=&#34;Register An Online Exam Session&#34;&gt;&lt;/a&gt;Register An Online Exam Session&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; website and create an account by clicking on the “Sign Up” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 2: Once you have created an account, log in to your account using your email address and password.&lt;/p&gt;
+&lt;p&gt;Step 3: Click on the “Dashboard” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 4: Scroll down to the “Exam Session” section and click on the “Register” button next to the session you want to register for.&lt;/p&gt;
+&lt;p&gt;Step 5: You will be prompted to confirm your registration and agree to the exam rules and regulations. You may need to provide your FRN.&lt;/p&gt;
+&lt;p&gt;Step 6: Once you have confirmed your registration, you will receive an email with further instructions on how to prepare for the exam.&lt;/p&gt;
+&lt;p&gt;Step 7: On the day of the exam, log in to your account on &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; and click on the “Join Exam” button next to the session you registered for.&lt;/p&gt;
+&lt;p&gt;Step 8: Follow the instructions to take the online exam.&lt;/p&gt;
+&lt;p&gt;Step 9: After completing the exam, you will receive your exam results immediately.&lt;/p&gt;
+</content>
+        <category term="license" />
+        <category term="welcome" />
+        <updated>2023-04-10T01:39:42.000Z</updated>
+    </entry>
+</feed>

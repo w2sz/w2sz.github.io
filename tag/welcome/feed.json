@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "W2SZ • All posts by \"welcome\" tag",
+    "description": "est. 1911",
+    "home_page_url": "http://w2sz.github.io",
+    "items": [
+        {
+            "id": "http://w2sz.github.io/post/licensing/",
+            "url": "http://w2sz.github.io/post/licensing/",
+            "title": "Getting Licensed",
+            "date_published": "2023-04-10T01:39:42.000Z",
+            "content_html": "<h2 id=\"Obtain-Your-FCC-Reference-Number-FRN\"><a href=\"#Obtain-Your-FCC-Reference-Number-FRN\" class=\"headerlink\" title=\"Obtain Your FCC Reference Number (FRN)\"></a>Obtain Your FCC Reference Number (FRN)</h2><p>Step 1: Go to the <a href=\"https://apps.fcc.gov/cores/userLogin.do\">FCC Registration System (CORES) website</a>.</p>\n<p>Step 2: Click on the “Register” button on the top right corner of the page.</p>\n<p>Step 3: You will be prompted to create an FCC Username and Password. Follow the prompts and create your account.</p>\n<p>Step 4: Once you have created your account, log in to the FCC Registration System (CORES) website using your FCC Username and Password.</p>\n<p>Step 5: On the CORES homepage, click on the “Manage FRNs” button.</p>\n<p>Step 6: If you do not have an FRN number, click on the “Register New FRN” button.</p>\n<p>Step 7: You will be prompted to enter your personal information, such as your name, address, phone number, and email address.</p>\n<p>Step 8: Once you have entered all of the required information, click on the “Submit” button.</p>\n<p>Step 9: You will receive a confirmation email from the FCC with your newly assigned FRN number.</p>\n<h2 id=\"Register-An-Online-Exam-Session\"><a href=\"#Register-An-Online-Exam-Session\" class=\"headerlink\" title=\"Register An Online Exam Session\"></a>Register An Online Exam Session</h2><p>Step 1: Go to the <a href=\"https://ham.study/\">https://ham.study</a> website and create an account by clicking on the “Sign Up” button on the top right corner of the page.</p>\n<p>Step 2: Once you have created an account, log in to your account using your email address and password.</p>\n<p>Step 3: Click on the “Dashboard” button on the top right corner of the page.</p>\n<p>Step 4: Scroll down to the “Exam Session” section and click on the “Register” button next to the session you want to register for.</p>\n<p>Step 5: You will be prompted to confirm your registration and agree to the exam rules and regulations. You may need to provide your FRN.</p>\n<p>Step 6: Once you have confirmed your registration, you will receive an email with further instructions on how to prepare for the exam.</p>\n<p>Step 7: On the day of the exam, log in to your account on <a href=\"https://ham.study/\">https://ham.study</a> and click on the “Join Exam” button next to the session you registered for.</p>\n<p>Step 8: Follow the instructions to take the online exam.</p>\n<p>Step 9: After completing the exam, you will receive your exam results immediately.</p>\n",
+            "tags": [
+                "license",
+                "welcome"
+            ]
+        }
+    ]
+}

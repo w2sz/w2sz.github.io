@@ -15,6 +15,9 @@
     <category term="KD2TAI Hisen" />
     <category term="shack" />
     <category term="MGEF" />
+    <category term="license" />
+    <category term="welcome" />
+    <category term="N1IHA Nick" />
     <entry>
         <id>http://w2sz.github.io/post/sdr-transceiver/</id>
         <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -28,13 +31,49 @@
         <updated>2023-04-15T00:19:47.000Z</updated>
     </entry>
     <entry>
+        <id>http://w2sz.github.io/post/licensing/</id>
+        <title>Getting Licensed</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/licensing/"/>
+        <content type="html">&lt;h2 id=&#34;Obtain-Your-FCC-Reference-Number-FRN&#34;&gt;&lt;a href=&#34;#Obtain-Your-FCC-Reference-Number-FRN&#34; class=&#34;headerlink&#34; title=&#34;Obtain Your FCC Reference Number (FRN)&#34;&gt;&lt;/a&gt;Obtain Your FCC Reference Number (FRN)&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://apps.fcc.gov/cores/userLogin.do&#34;&gt;FCC Registration System (CORES) website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Step 2: Click on the “Register” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 3: You will be prompted to create an FCC Username and Password. Follow the prompts and create your account.&lt;/p&gt;
+&lt;p&gt;Step 4: Once you have created your account, log in to the FCC Registration System (CORES) website using your FCC Username and Password.&lt;/p&gt;
+&lt;p&gt;Step 5: On the CORES homepage, click on the “Manage FRNs” button.&lt;/p&gt;
+&lt;p&gt;Step 6: If you do not have an FRN number, click on the “Register New FRN” button.&lt;/p&gt;
+&lt;p&gt;Step 7: You will be prompted to enter your personal information, such as your name, address, phone number, and email address.&lt;/p&gt;
+&lt;p&gt;Step 8: Once you have entered all of the required information, click on the “Submit” button.&lt;/p&gt;
+&lt;p&gt;Step 9: You will receive a confirmation email from the FCC with your newly assigned FRN number.&lt;/p&gt;
+&lt;h2 id=&#34;Register-An-Online-Exam-Session&#34;&gt;&lt;a href=&#34;#Register-An-Online-Exam-Session&#34; class=&#34;headerlink&#34; title=&#34;Register An Online Exam Session&#34;&gt;&lt;/a&gt;Register An Online Exam Session&lt;/h2&gt;&lt;p&gt;Step 1: Go to the &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; website and create an account by clicking on the “Sign Up” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 2: Once you have created an account, log in to your account using your email address and password.&lt;/p&gt;
+&lt;p&gt;Step 3: Click on the “Dashboard” button on the top right corner of the page.&lt;/p&gt;
+&lt;p&gt;Step 4: Scroll down to the “Exam Session” section and click on the “Register” button next to the session you want to register for.&lt;/p&gt;
+&lt;p&gt;Step 5: You will be prompted to confirm your registration and agree to the exam rules and regulations. You may need to provide your FRN.&lt;/p&gt;
+&lt;p&gt;Step 6: Once you have confirmed your registration, you will receive an email with further instructions on how to prepare for the exam.&lt;/p&gt;
+&lt;p&gt;Step 7: On the day of the exam, log in to your account on &lt;a href=&#34;https://ham.study/&#34;&gt;https://ham.study&lt;/a&gt; and click on the “Join Exam” button next to the session you registered for.&lt;/p&gt;
+&lt;p&gt;Step 8: Follow the instructions to take the online exam.&lt;/p&gt;
+&lt;p&gt;Step 9: After completing the exam, you will receive your exam results immediately.&lt;/p&gt;
+</content>
+        <category term="license" />
+        <category term="welcome" />
+        <updated>2023-04-10T01:39:42.000Z</updated>
+    </entry>
+    <entry>
         <id>http://w2sz.github.io/post/subscribe/</id>
         <title>Subscribing W2SZ</title>
         <link rel="alternate" href="http://w2sz.github.io/post/subscribe/"/>
         <content type="html">&lt;p&gt;Subscribing to W2SZ is quite easy, and there are several ways you can do it. Here’s a step-by-step tutorial on how to subscribe to W2SZ using RSS and how to use Feedrabbit service to forward it to emails, if preferred.&lt;/p&gt;
-&lt;h2 id=&#34;RSS&#34;&gt;&lt;a href=&#34;#RSS&#34; class=&#34;headerlink&#34; title=&#34;RSS&#34;&gt;&lt;/a&gt;RSS&lt;/h2&gt;&lt;h3 id=&#34;Choose-an-RSS-Reader&#34;&gt;&lt;a href=&#34;#Choose-an-RSS-Reader&#34; class=&#34;headerlink&#34; title=&#34;Choose an RSS Reader&#34;&gt;&lt;/a&gt;Choose an RSS Reader&lt;/h3&gt;&lt;p&gt;To subscribe to W2SZ using RSS, you will need an RSS reader. There are many different RSS readers available, both as desktop applications and web-based services. Some popular options include Thunderbird, Feedly, Inoreader, and NewsBlur. For the purpose of this tutorial, we will use Feedly as an example.&lt;/p&gt;
-&lt;h3 id=&#34;Add-the-W2SZ-RSS-Feed-to-your-Reader&#34;&gt;&lt;a href=&#34;#Add-the-W2SZ-RSS-Feed-to-your-Reader&#34; class=&#34;headerlink&#34; title=&#34;Add the W2SZ RSS Feed to your Reader&#34;&gt;&lt;/a&gt;Add the W2SZ RSS Feed to your Reader&lt;/h3&gt;&lt;p&gt;Once you have selected an RSS reader, the next step is to add the W2SZ RSS feed to it. To do this, you will need to find the RSS feed URL for W2SZ. In this case, the RSS feed URL for W2SZ is &lt;strong&gt;&lt;a href=&#34;http://w2sz.github.io/rss.xml&#34;&gt;http://w2sz.github.io/rss.xml&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;In Feedly, for example, you can add the W2SZ RSS feed by clicking on the “Add Content” button and then entering the RSS feed URL into the search bar. Once you have done this, click “Follow” to add the feed to your account.&lt;/p&gt;
+&lt;h2 id=&#34;RSS&#34;&gt;&lt;a href=&#34;#RSS&#34; class=&#34;headerlink&#34; title=&#34;RSS&#34;&gt;&lt;/a&gt;RSS&lt;/h2&gt;&lt;p&gt;To subscribe to W2SZ using RSS, you will need an RSS reader. There are many different RSS readers available, both as desktop applications and web-based services. Some popular options include Thunderbird, Feedly, Inoreader, and NewsBlur. For the purpose of this tutorial, we will use Thunderbird as an example.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Thunderbird and select “File” from the top menu.&lt;/li&gt;
+&lt;li&gt;Click on “New” and then select “Other Accounts” from the drop-down menu.&lt;/li&gt;
+&lt;li&gt;Choose “RSS News &amp;amp; Blogs” and click on “Next”.&lt;/li&gt;
+&lt;li&gt;Enter the URL of the RSS feed &lt;strong&gt;&lt;a href=&#34;http://w2sz.github.io/rss.xml&#34;&gt;http://w2sz.github.io/rss.xml&lt;/a&gt;&lt;/strong&gt; and click on “Next”.&lt;/li&gt;
+&lt;li&gt;Thunderbird will automatically detect the feed’s title and URL. You can change the title if you want.&lt;/li&gt;
+&lt;li&gt;Select the folder where you want to store the RSS feed in Thunderbird. You can create a new folder by clicking on “New Folder”.&lt;/li&gt;
+&lt;li&gt;Click on “Finish” to complete the subscription process.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now that you’ve subscribed to the RSS feed, you can access it by clicking on the folder where you saved it in Thunderbird. The feed’s articles will appear in the folder, and you can click on each one to read it.&lt;/p&gt;
+&lt;p&gt;If you want to unsubscribe from an RSS feed in Thunderbird, you can simply right-click on the folder and select “Properties”. From there, click on “Unsubscribe” and the folder will be removed from Thunderbird.&lt;/p&gt;
 &lt;h2 id=&#34;Email&#34;&gt;&lt;a href=&#34;#Email&#34; class=&#34;headerlink&#34; title=&#34;Email&#34;&gt;&lt;/a&gt;Email&lt;/h2&gt;&lt;p&gt;You can use a service like Feedrabbit to forward the feed to your email address. Feedrabbit is a free web-based service that allows you to receive RSS feeds in your email inbox.&lt;/p&gt;
 &lt;p&gt;To get started with Feedrabbit, you will need to create an account on their website. Once you have done this, you can add the W2SZ RSS feed to your account by entering the feed URL into the “Add a Feed” box. After you have added the feed, you can choose to have the feed items delivered to your email address on a real-time, daily, or weekly basis.&lt;/p&gt;
 &lt;p&gt;That’s it! By following these steps, you should now be subscribed to the W2SZ RSS feed and receiving updates via email thanks to Feedrabbit.&lt;/p&gt;
@@ -226,16 +265,5 @@
         <category term="contest" />
         <category term="MGEF" />
         <updated>2021-06-15T19:20:04.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://w2sz.github.io/post/binary-cw/</id>
-        <title>Protocol for Formatting and Transmitting Binary Data over Morse CW</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/binary-cw/"/>
-        <content type="html">&lt;p&gt;B. R. Callahan, “Protocol for Formatting and Transmitting Binary Data over Morse CW,” QEX May&amp;#x2F;June 2021: 31-33.&lt;/p&gt;
-</content>
-        <category term="publication" />
-        <category term="CW" />
-        <category term="AD2BA Brian" />
-        <updated>2021-05-01T23:57:28.000Z</updated>
     </entry>
 </feed>
