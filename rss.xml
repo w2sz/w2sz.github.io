@@ -21,6 +21,7 @@
         <category>N1IHA Nick</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>member</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/sdr-transceiver/</guid>
             <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -32,6 +33,24 @@
             <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang, “A Minimal Software-Defined Radio VHF&amp;#x2F;UHF&amp;#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.&lt;/p&gt;
  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/member/KD2TAI/</guid>
+            <title>KD2TAI - Hisen</title>
+            <link>http://w2sz.github.io/post/member/KD2TAI/</link>
+            <category>KD2TAI Hisen</category>
+            <category>member</category>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 -0400</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/member/AD2BA/</guid>
+            <title>AD2BA - Brian</title>
+            <link>http://w2sz.github.io/post/member/AD2BA/</link>
+            <category>AD2BA Brian</category>
+            <category>member</category>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 -0400</pubDate>
+            <description><![CDATA[  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/links/</guid>
@@ -317,27 +336,6 @@
             <category>AD2BA Brian</category>
             <pubDate>Thu, 01 Sep 2022 19:52:14 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;B. R. Callahan, “A first commentary on the CW Record Protocol,” QEX September&amp;#x2F;October 2022: 19-22.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/gaming-over-sstv/</guid>
-            <title>Experiments in gaming over SSTV</title>
-            <link>http://w2sz.github.io/post/gaming-over-sstv/</link>
-            <category>publication</category>
-            <category>AD2BA Brian</category>
-            <category>SSTV</category>
-            <pubDate>Fri, 01 Jul 2022 19:53:49 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&amp;#x2F;August 2022: 25-29.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/vhf-jun-22/</guid>
-            <title>VHF Contest June 2022</title>
-            <link>http://w2sz.github.io/post/vhf-jun-22/</link>
-            <category>contest</category>
-            <category>MGEF</category>
-            <pubDate>Wed, 15 Jun 2022 15:20:04 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8M8VX25.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/IobOdU6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/bcNdk5u.jpg&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

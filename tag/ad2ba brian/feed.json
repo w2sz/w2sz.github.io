@@ -5,6 +5,17 @@
     "home_page_url": "http://w2sz.github.io",
     "items": [
         {
+            "id": "http://w2sz.github.io/post/member/AD2BA/",
+            "url": "http://w2sz.github.io/post/member/AD2BA/",
+            "title": "AD2BA - Brian",
+            "date_published": "2023-04-13T04:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "AD2BA Brian",
+                "member"
+            ]
+        },
+        {
             "id": "http://w2sz.github.io/post/fmbot/",
             "url": "http://w2sz.github.io/post/fmbot/",
             "title": "An AI-powered transcription bot for FM transmissions",

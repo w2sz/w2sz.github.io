@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "W2SZ • All posts by \"member\" tag",
+    "description": "est. 1911",
+    "home_page_url": "http://w2sz.github.io",
+    "items": [
+        {
+            "id": "http://w2sz.github.io/post/member/KD2TAI/",
+            "url": "http://w2sz.github.io/post/member/KD2TAI/",
+            "title": "KD2TAI - Hisen",
+            "date_published": "2023-04-13T04:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "KD2TAI Hisen",
+                "member"
+            ]
+        },
+        {
+            "id": "http://w2sz.github.io/post/member/AD2BA/",
+            "url": "http://w2sz.github.io/post/member/AD2BA/",
+            "title": "AD2BA - Brian",
+            "date_published": "2023-04-13T04:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "AD2BA Brian",
+                "member"
+            ]
+        }
+    ]
+}
