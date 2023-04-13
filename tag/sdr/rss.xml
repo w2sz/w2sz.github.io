@@ -20,6 +20,7 @@
         <category>license</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>N1IHA Nick</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/sdr-transceiver/</guid>
             <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>

@@ -20,6 +20,7 @@
         <category>license</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>N1IHA Nick</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/sdr-transceiver/</guid>
             <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -30,6 +31,61 @@
             <category>KD2TAI Hisen</category>
             <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang, “A Minimal Software-Defined Radio VHF&amp;#x2F;UHF&amp;#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/links/</guid>
+            <title>External Links</title>
+            <link>http://w2sz.github.io/post/links/</link>
+            <pubDate>Thu, 13 Apr 2023 09:45:43 -0400</pubDate>
+            <description><![CDATA[ &lt;!-- ## Equipment Suppliers
+
+- [HRO](http://www.hamradio.com)
+- [AES](http://www.aesham.com/)
+- [DownEastMicrowave](http://www.downeastmicrowave.com) --&gt;
+
+&lt;h3 id=&#34;Licensing-Exam&#34;&gt;&lt;a href=&#34;#Licensing-Exam&#34; class=&#34;headerlink&#34; title=&#34;Licensing Exam&#34;&gt;&lt;/a&gt;Licensing Exam&lt;/h3&gt;&lt;!-- - [AA9PW Practice Exams](http://www.aa9pw.com/radio/)
+- [ARRL Exam Search](http://www.arrl.org/find-an-amateur-radio-license-exam-session)
+- [ATVET testing schedule](http://www.k2ct.net/testing.cfm)
+- [Exams Upcoming](http://www.n2ty.org/atvet.htm) --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ham.study/sessions/ad4ve&#34;&gt;GLAARG Online Exams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ham.study/&#34;&gt;Question Pool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.articlemyriad.com/ham-radio-resource-guide/&#34;&gt;Ham Radio Resource Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Utilities&#34;&gt;&lt;a href=&#34;#Utilities&#34; class=&#34;headerlink&#34; title=&#34;Utilities&#34;&gt;&lt;/a&gt;Utilities&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qrz.com/&#34;&gt;Call Sign Lookup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://emergencyradio.org/&#34;&gt;Emergency Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amsat.org/amsat/toys&#34;&gt;Grid Squares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arrl.org/FandES/field/regulations/Hamband_color.pdf&#34;&gt;Ham Bands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arrl.org/field/regulation/bands_html&#34;&gt;US Frequencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.unyrepco.org/index.htm&#34;&gt;Repeaters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fcc.gov/wtb/uls&#34;&gt;FCC ULS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Friend-Clubs&#34;&gt;&lt;a href=&#34;#Friend-Clubs&#34; class=&#34;headerlink&#34; title=&#34;Friend Clubs&#34;&gt;&lt;/a&gt;Friend Clubs&lt;/h3&gt;&lt;h4 id=&#34;National&#34;&gt;&lt;a href=&#34;#National&#34; class=&#34;headerlink&#34; title=&#34;National&#34;&gt;&lt;/a&gt;National&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arrl.org/&#34;&gt;American Radio Relay League&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hamsthatcare.com/&#34;&gt;Technician Class home page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Local&#34;&gt;&lt;a href=&#34;#Local&#34; class=&#34;headerlink&#34; title=&#34;Local&#34;&gt;&lt;/a&gt;Local&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mgef.org/&#34;&gt;MGEF (W2SZ&amp;#x2F;1) Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.n2ty.org/&#34;&gt;N2TY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.n2ty.org/rcraces/&#34;&gt;Rensselaer County ARES&amp;#x2F;RACES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w2egb.org/index.html#top&#34;&gt;W2EGB East Greenbush Amateur Radio Association&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Collegiate&#34;&gt;&lt;a href=&#34;#Collegiate&#34; class=&#34;headerlink&#34; title=&#34;Collegiate&#34;&gt;&lt;/a&gt;Collegiate&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w2cxm.org/&#34;&gt;W2CXM Cornell Amateur Radio Club&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://w8edu.wordpress.com/&#34;&gt;W8EDU Case Amateur Radio Club&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Radio-History&#34;&gt;&lt;a href=&#34;#Radio-History&#34; class=&#34;headerlink&#34; title=&#34;Radio History&#34;&gt;&lt;/a&gt;Radio History&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.titlemax.com/articles/the-history-of-the-car-radio/&#34;&gt;The History of the Car Radio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Miscellaneous&#34;&gt;&lt;a href=&#34;#Miscellaneous&#34; class=&#34;headerlink&#34; title=&#34;Miscellaneous&#34;&gt;&lt;/a&gt;Miscellaneous&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.arrl.org/w1aw.html&#34;&gt;W1AW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ntms.org/&#34;&gt;NTMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wc2l.com/&#34;&gt;WC2L’s Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hudsonvalleytowers.com/&#34;&gt;Hudson Valley Towers (W2RE)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
@@ -282,15 +338,6 @@
             <category>MGEF</category>
             <pubDate>Wed, 15 Jun 2022 15:20:04 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8M8VX25.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/IobOdU6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/bcNdk5u.jpg&#34;&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/shack-work-in-progress/</guid>
-            <title>Shack Work In Progress</title>
-            <link>http://w2sz.github.io/post/shack-work-in-progress/</link>
-            <category>shack</category>
-            <pubDate>Sat, 04 Jun 2022 13:17:10 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/iN6ZjLp.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/cptp6ra.jpg&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

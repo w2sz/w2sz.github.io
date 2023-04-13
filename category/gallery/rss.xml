@@ -20,6 +20,7 @@
         <category>license</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>N1IHA Nick</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/pixie-kit-build/</guid>
             <title>Pixie Transceiver Kit Building</title>
@@ -108,6 +109,15 @@
             <category>MGEF</category>
             <pubDate>Tue, 15 Jun 2021 15:20:04 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/VdsGYwY.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/F8Kpsrs.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AIyTE02.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/5whLSHO.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/iiNvOFO.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/R7RCmF0.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/nmRUCDc.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/gEnizB3.jpg&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/shack-1960s/</guid>
+            <title>W2SZ Shack in 1961</title>
+            <link>http://w2sz.github.io/post/shack-1960s/</link>
+            <category>shack</category>
+            <pubDate>Sun, 01 Jan 1961 23:06:08 -0500</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mP9LFQE.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/7GCe9de.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AAcKhaA.gif&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

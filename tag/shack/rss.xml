@@ -20,6 +20,7 @@
         <category>license</category>
         <category>shack</category>
         <category>MGEF</category>
+        <category>N1IHA Nick</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/shack-leak/</guid>
             <title>Shack Roof Leak</title>
@@ -45,6 +46,15 @@
             <category>shack</category>
             <pubDate>Sat, 04 Jun 2022 13:17:10 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/iN6ZjLp.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/cptp6ra.jpg&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/shack-1960s/</guid>
+            <title>W2SZ Shack in 1961</title>
+            <link>http://w2sz.github.io/post/shack-1960s/</link>
+            <category>shack</category>
+            <pubDate>Sun, 01 Jan 1961 23:06:08 -0500</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mP9LFQE.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/7GCe9de.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AAcKhaA.gif&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
