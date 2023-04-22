@@ -18,7 +18,7 @@
     <category term="N1IHA Nick" />
     <category term="shack" />
     <category term="MGEF" />
-    <category term="member" />
+    <category term="history" />
     <entry>
         <id>http://w2sz.github.io/post/shack-leak/</id>
         <title>Shack Roof Leak</title>
@@ -53,6 +53,7 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mP9LFQE.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/7GCe9de.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AAcKhaA.gif&#34;&gt;&lt;/p&gt;
 </content>
         <category term="shack" />
+        <category term="history" />
         <updated>1961-01-02T04:06:08.000Z</updated>
     </entry>
 </feed>

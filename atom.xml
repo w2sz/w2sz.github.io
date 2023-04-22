@@ -18,7 +18,7 @@
     <category term="N1IHA Nick" />
     <category term="shack" />
     <category term="MGEF" />
-    <category term="member" />
+    <category term="history" />
     <entry>
         <id>http://w2sz.github.io/post/sdr-transceiver/</id>
         <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -30,24 +30,6 @@
         <category term="SDR" />
         <category term="KD2TAI Hisen" />
         <updated>2023-04-15T00:19:47.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://w2sz.github.io/post/member/KD2TAI/</id>
-        <title>KD2TAI - Hisen</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/member/KD2TAI/"/>
-        <content type="html"></content>
-        <category term="KD2TAI Hisen" />
-        <category term="member" />
-        <updated>2023-04-13T04:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://w2sz.github.io/post/member/AD2BA/</id>
-        <title>AD2BA - Brian</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/member/AD2BA/"/>
-        <content type="html"></content>
-        <category term="AD2BA Brian" />
-        <category term="member" />
-        <updated>2023-04-13T04:00:00.000Z</updated>
     </entry>
     <entry>
         <id>http://w2sz.github.io/post/links/</id>
@@ -334,5 +316,26 @@
         <category term="CW" />
         <category term="AD2BA Brian" />
         <updated>2022-09-01T23:52:14.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/gaming-over-sstv/</id>
+        <title>Experiments in gaming over SSTV</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/gaming-over-sstv/"/>
+        <content type="html">&lt;p&gt;B. R. Callahan, “Experiments in gaming over SSTV,” QEX July&amp;#x2F;August 2022: 25-29.&lt;/p&gt;
+</content>
+        <category term="publication" />
+        <category term="AD2BA Brian" />
+        <category term="SSTV" />
+        <updated>2022-07-01T23:53:49.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/vhf-jun-22/</id>
+        <title>VHF Contest June 2022</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/vhf-jun-22/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8M8VX25.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/IobOdU6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/bcNdk5u.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="contest" />
+        <category term="MGEF" />
+        <updated>2022-06-15T19:20:04.000Z</updated>
     </entry>
 </feed>

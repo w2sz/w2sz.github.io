@@ -21,7 +21,7 @@
         <category>N1IHA Nick</category>
         <category>shack</category>
         <category>MGEF</category>
-        <category>member</category>
+        <category>history</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/sdr-transceiver/</guid>
             <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -33,15 +33,6 @@
             <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang, “A Minimal Software-Defined Radio VHF&amp;#x2F;UHF&amp;#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.&lt;/p&gt;
  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/member/KD2TAI/</guid>
-            <title>KD2TAI - Hisen</title>
-            <link>http://w2sz.github.io/post/member/KD2TAI/</link>
-            <category>KD2TAI Hisen</category>
-            <category>member</category>
-            <pubDate>Thu, 13 Apr 2023 00:00:00 -0400</pubDate>
-            <description><![CDATA[  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot/</guid>

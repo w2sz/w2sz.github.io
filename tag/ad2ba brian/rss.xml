@@ -5,8 +5,8 @@
         <link>http://w2sz.github.io</link>
         <description>est. 1911</description>
         <language>en</language>
-        <pubDate>Thu, 13 Apr 2023 00:00:00 -0400</pubDate>
-        <lastBuildDate>Thu, 13 Apr 2023 00:00:00 -0400</lastBuildDate>
+        <pubDate>Sun, 01 Jan 2023 19:28:38 -0500</pubDate>
+        <lastBuildDate>Sun, 01 Jan 2023 19:28:38 -0500</lastBuildDate>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
@@ -21,16 +21,7 @@
         <category>N1IHA Nick</category>
         <category>shack</category>
         <category>MGEF</category>
-        <category>member</category>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/member/AD2BA/</guid>
-            <title>AD2BA - Brian</title>
-            <link>http://w2sz.github.io/post/member/AD2BA/</link>
-            <category>AD2BA Brian</category>
-            <category>member</category>
-            <pubDate>Thu, 13 Apr 2023 00:00:00 -0400</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
+        <category>history</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot/</guid>
             <title>An AI-powered transcription bot for FM transmissions</title>

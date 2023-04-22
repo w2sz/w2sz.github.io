@@ -18,7 +18,7 @@
     <category term="N1IHA Nick" />
     <category term="shack" />
     <category term="MGEF" />
-    <category term="member" />
+    <category term="history" />
     <entry>
         <id>http://w2sz.github.io/post/pixie-kit-build/</id>
         <title>Pixie Transceiver Kit Building</title>
@@ -116,6 +116,31 @@
         <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mP9LFQE.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/7GCe9de.gif&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/AAcKhaA.gif&#34;&gt;&lt;/p&gt;
 </content>
         <category term="shack" />
+        <category term="history" />
         <updated>1961-01-02T04:06:08.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/whaz-postcard/</id>
+        <title>WHAZ Postcard</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/whaz-postcard/"/>
+        <content type="html">&lt;p&gt;From:   Kevin Roberts&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This postcard is in a scrapbook that I had in my attic from 1933. It was a reply postcard that WRPI’s predecessor (WHAZ) mailed to those who sent letters to the station&lt;/p&gt;
+&lt;p&gt;Note that RPI’s WHAZ-AM only broadcast on Monday evenings. But, once a month, it transmitted “clear channel” across the entire United  States.&lt;/p&gt;
+&lt;p&gt;The bell pictured has an interesting history, as it was used in the very first experiment demonstrating electrical communication in  1831. WHAZ used the bell in several broadcasts.&lt;/p&gt;
+&lt;p&gt;I hope this is interesting, and that someone can use this image to post on WRPI’s website&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="history" />
+        <updated>1933-01-01T20:28:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/whaz-broadcast/</id>
+        <title>Radiophone WHAZ Unique in Broadcasting</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/whaz-broadcast/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/1twZbp6.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/sjOnV1I.jpg&#34;&gt;&lt;br&gt;&lt;img src=&#34;https://i.imgur.com/Bgabw8p.jpg&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="history" />
+        <updated>1920-01-01T05:00:00.000Z</updated>
     </entry>
 </feed>
