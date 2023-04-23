@@ -11,10 +11,21 @@
             "date_published": "2023-04-15T00:19:47.000Z",
             "content_html": "<p>Z. Zhang, “A Minimal Software-Defined Radio VHF&#x2F;UHF&#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.</p>\n",
             "tags": [
-                "publication",
                 "conference",
+                "publication",
                 "SDR",
                 "KD2TAI Hisen"
+            ]
+        },
+        {
+            "id": "http://w2sz.github.io/post/member/KD2TAI/",
+            "url": "http://w2sz.github.io/post/member/KD2TAI/",
+            "title": "KD2TAI - Hisen Zhang",
+            "date_published": "2023-04-13T04:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "KD2TAI Hisen",
+                "member"
             ]
         },
         {
@@ -38,9 +49,9 @@
             "date_published": "2022-09-18T23:20:45.000Z",
             "content_html": "<p>Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.</p>\n",
             "tags": [
+                "conference",
                 "publication",
                 "AD2BA Brian",
-                "conference",
                 "fm-bot",
                 "SDR",
                 "KD2TAI Hisen"

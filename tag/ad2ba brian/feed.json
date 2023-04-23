@@ -5,6 +5,17 @@
     "home_page_url": "http://w2sz.github.io",
     "items": [
         {
+            "id": "http://w2sz.github.io/post/member/AD2BA/",
+            "url": "http://w2sz.github.io/post/member/AD2BA/",
+            "title": "AD2BA - Brian Callahan",
+            "date_published": "2023-04-13T04:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "AD2BA Brian",
+                "member"
+            ]
+        },
+        {
             "id": "http://w2sz.github.io/post/fmbot/",
             "url": "http://w2sz.github.io/post/fmbot/",
             "title": "An AI-powered transcription bot for FM transmissions",
@@ -25,9 +36,9 @@
             "date_published": "2022-09-18T23:20:45.000Z",
             "content_html": "<p>Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.</p>\n",
             "tags": [
+                "conference",
                 "publication",
                 "AD2BA Brian",
-                "conference",
                 "fm-bot",
                 "SDR",
                 "KD2TAI Hisen"

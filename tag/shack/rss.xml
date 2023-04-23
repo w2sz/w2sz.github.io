@@ -7,10 +7,10 @@
         <language>en</language>
         <pubDate>Thu, 12 Jan 2023 13:17:10 -0500</pubDate>
         <lastBuildDate>Thu, 12 Jan 2023 13:17:10 -0500</lastBuildDate>
+        <category>conference</category>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
-        <category>conference</category>
         <category>SSTV</category>
         <category>contest</category>
         <category>fm-bot</category>
@@ -20,8 +20,10 @@
         <category>license</category>
         <category>N1IHA Nick</category>
         <category>shack</category>
-        <category>MGEF</category>
         <category>history</category>
+        <category>MGEF</category>
+        <category>member</category>
+        <category>AC2YD Ben</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/shack-leak/</guid>
             <title>Shack Roof Leak</title>

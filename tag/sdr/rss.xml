@@ -7,10 +7,10 @@
         <language>en</language>
         <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
         <lastBuildDate>Fri, 14 Apr 2023 20:19:47 -0400</lastBuildDate>
+        <category>conference</category>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
-        <category>conference</category>
         <category>SSTV</category>
         <category>contest</category>
         <category>fm-bot</category>
@@ -20,14 +20,16 @@
         <category>license</category>
         <category>N1IHA Nick</category>
         <category>shack</category>
-        <category>MGEF</category>
         <category>history</category>
+        <category>MGEF</category>
+        <category>member</category>
+        <category>AC2YD Ben</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/sdr-transceiver/</guid>
             <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
             <link>http://w2sz.github.io/post/sdr-transceiver/</link>
-            <category>publication</category>
             <category>conference</category>
+            <category>publication</category>
             <category>SDR</category>
             <category>KD2TAI Hisen</category>
             <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
@@ -51,9 +53,9 @@
             <guid isPermalink="true">http://w2sz.github.io/post/fmbot-analysis/</guid>
             <title>Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions</title>
             <link>http://w2sz.github.io/post/fmbot-analysis/</link>
+            <category>conference</category>
             <category>publication</category>
             <category>AD2BA Brian</category>
-            <category>conference</category>
             <category>fm-bot</category>
             <category>SDR</category>
             <category>KD2TAI Hisen</category>

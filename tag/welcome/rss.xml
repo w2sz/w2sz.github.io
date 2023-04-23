@@ -7,10 +7,10 @@
         <language>en</language>
         <pubDate>Mon, 10 Apr 2023 15:05:33 -0400</pubDate>
         <lastBuildDate>Mon, 10 Apr 2023 15:05:33 -0400</lastBuildDate>
+        <category>conference</category>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
-        <category>conference</category>
         <category>SSTV</category>
         <category>contest</category>
         <category>fm-bot</category>
@@ -20,8 +20,10 @@
         <category>license</category>
         <category>N1IHA Nick</category>
         <category>shack</category>
-        <category>MGEF</category>
         <category>history</category>
+        <category>MGEF</category>
+        <category>member</category>
+        <category>AC2YD Ben</category>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/new-licensee/</guid>
             <title>Things To Do With Your License</title>

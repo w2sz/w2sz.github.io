@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://w2sz.github.io</id>
+    <title>W2SZ • Posts by &#34;member&#34; category</title>
+    <link href="http://w2sz.github.io" />
+    <updated>2023-04-21T04:00:00.000Z</updated>
+    <category term="conference" />
+    <category term="publication" />
+    <category term="CW" />
+    <category term="AD2BA Brian" />
+    <category term="SSTV" />
+    <category term="contest" />
+    <category term="fm-bot" />
+    <category term="SDR" />
+    <category term="KD2TAI Hisen" />
+    <category term="welcome" />
+    <category term="license" />
+    <category term="N1IHA Nick" />
+    <category term="shack" />
+    <category term="history" />
+    <category term="MGEF" />
+    <category term="member" />
+    <category term="AC2YD Ben" />
+    <entry>
+        <id>http://w2sz.github.io/post/member/roster/</id>
+        <title>The Grand Roster of W2SZ</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/member/roster/"/>
+        <content type="html">&lt;p&gt;This is a non-exhaustive roster of past and present membership and those affiliated with W2SZ.&lt;/p&gt;
+&lt;h2 id=&#34;Updates&#34;&gt;&lt;a href=&#34;#Updates&#34; class=&#34;headerlink&#34; title=&#34;Updates&#34;&gt;&lt;/a&gt;Updates&lt;/h2&gt;&lt;p&gt;We rely on crowd-sourcing to make information accurate and updated. Contact us if you have clues.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To nominate someone who’s missing from the list, email a club officer about the nominee.&lt;/li&gt;
+&lt;li&gt;To nominate yourself, reach two listed hams who may know you, and ask them to recommend you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;The-Grand-Roster&#34;&gt;&lt;a href=&#34;#The-Grand-Roster&#34; class=&#34;headerlink&#34; title=&#34;The Grand Roster&#34;&gt;&lt;/a&gt;The Grand Roster&lt;/h2&gt;&lt;p&gt;&lt;em&gt;THE END OF LIST.&lt;/em&gt;&lt;/p&gt;
+</content>
+        <category term="member" />
+        <updated>2023-04-21T04:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/member/AD2BA/</id>
+        <title>AD2BA - Brian Callahan</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/member/AD2BA/"/>
+        <content type="html"></content>
+        <category term="AD2BA Brian" />
+        <category term="member" />
+        <updated>2023-04-13T04:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/member/KD2TAI/</id>
+        <title>KD2TAI - Hisen Zhang</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/member/KD2TAI/"/>
+        <content type="html"></content>
+        <category term="KD2TAI Hisen" />
+        <category term="member" />
+        <updated>2023-04-13T04:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://w2sz.github.io/post/member/AC2YD/</id>
+        <title>AC2YD - Ben Cahill</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/member/AC2YD/"/>
+        <content type="html">&lt;p&gt;I was the equipment manager for W2SZ for at least one year, probably 1975-76 school year.  I graduated one semester early, in December ‘76 (class of ‘77), so I probably was not equipment manager for 76-77 school year.  I carried on the traditional report, “Some of the equipment is working, and some of it isn’t”, that my predecessor passed down to me!  I can’t remember his name.  :-(&lt;/p&gt;
+&lt;p&gt;At the time, I was WB2PWS (advanced class).  I let my license drop after college, just got re-licensed in late 2018 as Extra, back on the air in 2020 … built Softrock RXTX Ensemble kit, been happily QRP CW ever since … largely contesting!&lt;/p&gt;
+</content>
+        <category term="member" />
+        <category term="AC2YD Ben" />
+        <updated>1976-01-01T05:00:00.000Z</updated>
+    </entry>
+</feed>
