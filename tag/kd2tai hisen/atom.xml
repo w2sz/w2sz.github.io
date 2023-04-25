@@ -20,6 +20,7 @@
     <category term="history" />
     <category term="MGEF" />
     <category term="member" />
+    <category term="AC2YD Ben" />
     <entry>
         <id>http://w2sz.github.io/post/sdr-transceiver/</id>
         <title>A Minimal Software-Defined Radio VHF/UHF/SHF Transceiver</title>
@@ -34,7 +35,7 @@
     </entry>
     <entry>
         <id>http://w2sz.github.io/post/member/KD2TAI/</id>
-        <title>KD2TAI - Hisen</title>
+        <title>KD2TAI - Hisen Zhang</title>
         <link rel="alternate" href="http://w2sz.github.io/post/member/KD2TAI/"/>
         <content type="html"></content>
         <category term="KD2TAI Hisen" />
