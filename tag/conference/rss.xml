@@ -5,8 +5,8 @@
         <link>http://w2sz.github.io</link>
         <description>est. 1911</description>
         <language>en</language>
-        <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
-        <lastBuildDate>Fri, 14 Apr 2023 20:19:47 -0400</lastBuildDate>
+        <pubDate>Sat, 15 Apr 2023 08:19:47 +0800</pubDate>
+        <lastBuildDate>Sat, 15 Apr 2023 08:19:47 +0800</lastBuildDate>
         <category>conference</category>
         <category>publication</category>
         <category>CW</category>
@@ -32,7 +32,7 @@
             <category>publication</category>
             <category>SDR</category>
             <category>KD2TAI Hisen</category>
-            <pubDate>Fri, 14 Apr 2023 20:19:47 -0400</pubDate>
+            <pubDate>Sat, 15 Apr 2023 08:19:47 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang, “A Minimal Software-Defined Radio VHF&amp;#x2F;UHF&amp;#x2F;SHF Transceiver,” Proceedings of Microwave Update 2023. forthcoming Apr 14, 2023.&lt;/p&gt;
  ]]></description>
         </item>
@@ -41,7 +41,7 @@
             <title>QSO Today Ham Expo March 2023</title>
             <link>http://w2sz.github.io/post/qso-today-mar-23/</link>
             <category>conference</category>
-            <pubDate>Sat, 25 Mar 2023 18:40:41 -0400</pubDate>
+            <pubDate>Sun, 26 Mar 2023 06:40:41 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;How-to-Build-An-AI-powered-Transcription-Bot-for-FM-Transmissions&#34;&gt;&lt;a href=&#34;#How-to-Build-An-AI-powered-Transcription-Bot-for-FM-Transmissions&#34; class=&#34;headerlink&#34; title=&#34;How to Build An AI-powered Transcription Bot for FM Transmissions&#34;&gt;&lt;/a&gt;How to Build An AI-powered Transcription Bot for FM Transmissions&lt;/h2&gt;&lt;p&gt;Presentors: Brian Callahan AD2BA, Zhemin Zhang KD2TAI&lt;br&gt;Moderator: Vince d’Eon VE6LK&lt;/p&gt;
 &lt;p&gt;Collateral or Slides:&lt;br&gt;&lt;a href=&#34;https://v5.airtableusercontent.com/v1/15/15/1680919200000/T5qGbP0Yo4a4KDfxzobarA/XIiuDfImnNweaiLg7O3z0lc83H8VnKYT0qCN894bpDL_urZal3dNxdMqDkZKYXTXT44zRh9bnoJzc6EQMZVQV402JSqm0mp2F7rXawn6YIrAq210jhX4gcxaBovT11GxJS1xsS9tW0p6XJG6uvROfuDnnaHuqRQsllonc-NPd_Y/8f5Hlx1QGxRWBLk5DodpTs5RtmeceS26nEztjn1NIxc&#34;&gt;FMBot - QSO Today March 2023 Brian Calllahan AD2BA and Hisen Zhang KD2TAI.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -71,7 +71,7 @@
             <category>fm-bot</category>
             <category>SDR</category>
             <category>KD2TAI Hisen</category>
-            <pubDate>Sun, 18 Sep 2022 19:20:45 -0400</pubDate>
+            <pubDate>Mon, 19 Sep 2022 07:20:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.&lt;/p&gt;
  ]]></description>
         </item>
@@ -80,7 +80,7 @@
             <title>QSO Today Ham Expo September 2022</title>
             <link>http://w2sz.github.io/post/qso-today-sep-22/</link>
             <category>conference</category>
-            <pubDate>Sat, 17 Sep 2022 18:40:41 -0400</pubDate>
+            <pubDate>Sun, 18 Sep 2022 06:40:41 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34;&gt;&lt;a href=&#34;#HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34; class=&#34;headerlink&#34; title=&#34;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&#34;&gt;&lt;/a&gt;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&lt;/h2&gt;&lt;p&gt;Presentors: Zhemin Zhang KD2TAI&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1VwyWAMVfaRQOz8yNxs5SlrST_Bv64-HTUiovT-y2dvU&#34;&gt;Slides&lt;/a&gt; | &lt;a href=&#34;https://github.com/HisenZhang/DTMF-App&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Is it possible to send text and images by just dialing on your HT keypads? Have you ever wondered how the dial tones work? In this talk, we discuss a simple protocol to transfer data using your HTs by encoding information, including text, images, or arbitrary files, into DTMF tones: this minimal yet functioning setup serves as an introduction to modern digital communication systems.&lt;/p&gt;
