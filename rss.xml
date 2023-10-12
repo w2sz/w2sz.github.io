@@ -5,8 +5,8 @@
         <link>http://w2sz.github.io</link>
         <description>RPI Amateur Radio Club</description>
         <language>en</language>
-        <pubDate>Fri, 21 Apr 2023 00:00:00 -0400</pubDate>
-        <lastBuildDate>Fri, 21 Apr 2023 00:00:00 -0400</lastBuildDate>
+        <pubDate>Thu, 12 Oct 2023 17:01:35 -0400</pubDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:01:35 -0400</lastBuildDate>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
@@ -24,6 +24,65 @@
         <category>MGEF</category>
         <category>member</category>
         <category>AC2YD Ben</category>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/reunion-week/</guid>
+            <title>Reunion Week</title>
+            <link>http://w2sz.github.io/post/reunion-week/</link>
+            <pubDate>Thu, 12 Oct 2023 17:01:35 -0400</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;This page updates frequently. Please check for latest updates! Should you have question, &lt;a href=&#34;/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dear W2SZ members,&lt;br&gt;Welcome home! We are running following events for 2023 Reunion Week:&lt;/p&gt;
+&lt;h2 id=&#34;The-Mercer-XChange-10-x2F-14-12pm-1pm&#34;&gt;&lt;a href=&#34;#The-Mercer-XChange-10-x2F-14-12pm-1pm&#34; class=&#34;headerlink&#34; title=&#34;The Mercer XChange - 10&amp;#x2F;14 12pm-1pm&#34;&gt;&lt;/a&gt;The Mercer XChange - 10&amp;#x2F;14 12pm-1pm&lt;/h2&gt;&lt;p&gt;The Mercer XChange event for Alumni Weekend on Saturday, October 14th at 12 noon-1 p.m.&lt;/p&gt;
+&lt;p&gt;This is a hybrid event with both in-person (with lunch in JEC 6012) and online participation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WebEx link: &lt;a href=&#34;https://rensselaer.webex.com/rensselaer/j.php?MTID=m0d68620a3d2a23f2b824b482e6755a47&#34;&gt;https://rensselaer.webex.com/rensselaer/j.php?MTID=m0d68620a3d2a23f2b824b482e6755a47&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Saturday, October 14, 2023 12:00 PM | 1 hour | (UTC-04:00) Eastern Time (US &amp;amp; Canada)&lt;/li&gt;
+&lt;li&gt;Meeting number: 2624 199 4578&lt;/li&gt;
+&lt;li&gt;Password: pU9vQaPMx22&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Agenda:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Brief introductions&lt;/li&gt;
+&lt;li&gt;Mercer XLab renovation in progress!&lt;/li&gt;
+&lt;li&gt;Mercer XLab student presentation(s)&lt;/li&gt;
+&lt;li&gt;Open discussions toward knowledge XChange in the future&lt;/li&gt;
+&lt;li&gt;What would you like to learn from students? What can students learn from your experiences?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;W2SZ-Tabling-10-x2F-14-2pm-6pm&#34;&gt;&lt;a href=&#34;#W2SZ-Tabling-10-x2F-14-2pm-6pm&#34; class=&#34;headerlink&#34; title=&#34;W2SZ Tabling - 10&amp;#x2F;14 2pm-6pm&#34;&gt;&lt;/a&gt;W2SZ Tabling - 10&amp;#x2F;14 2pm-6pm&lt;/h2&gt;&lt;p&gt;The program is from 3:30-6pm following the football game. We have a long area of tenting on the pavers along the field house between the track and the side parking lot. Set up begins at 2pm.&lt;/p&gt;
+&lt;h2 id=&#34;Field-Operation-TBD&#34;&gt;&lt;a href=&#34;#Field-Operation-TBD&#34; class=&#34;headerlink&#34; title=&#34;Field Operation - TBD&#34;&gt;&lt;/a&gt;Field Operation - TBD&lt;/h2&gt;&lt;p&gt;This is a special way of home-coming for hams - we plan to operate HF and meet you on the air! Please join us this way if you are not visiting campus this year.&lt;/p&gt;
+&lt;h2 id=&#34;Shack-Tour-TBD&#34;&gt;&lt;a href=&#34;#Shack-Tour-TBD&#34; class=&#34;headerlink&#34; title=&#34;Shack Tour - TBD&#34;&gt;&lt;/a&gt;Shack Tour - TBD&lt;/h2&gt;&lt;p&gt;The relocated shack in now in the Union 3304. We are planning multiple shack tours. Please stay tuned.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/simplex-net/</guid>
+            <title>W2SZ Simplex Net</title>
+            <link>http://w2sz.github.io/post/simplex-net/</link>
+            <pubDate>Wed, 11 Oct 2023 18:04:45 -0400</pubDate>
+            <description><![CDATA[ &lt;style&gt;
+  .doc {
+    position: relative;
+    padding-bottom: 1%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+  }
+  .roster iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;doc&#34;&gt;
+    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vT1t_AvrASaYmjJXarbzpC2dqf7yYtvbDPsvlC5gxhBZ6D-hnf90DaHz9Qv_o7kRQd64XyiW6XBOn5v/pub?embedded=true&#34;
+            width=&#34;650&#34;
+            height=&#34;900&#34;
+            style=&#34;border:0;&#34;
+            allowfullscreen=&#34;&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/member/roster/</guid>
             <title>The Grand Roster of W2SZ</title>
@@ -340,27 +399,6 @@
             <category>KD2TAI Hisen</category>
             <pubDate>Sun, 18 Sep 2022 19:20:45 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/qso-today-sep-22/</guid>
-            <title>QSO Today Ham Expo September 2022</title>
-            <link>http://w2sz.github.io/post/qso-today-sep-22/</link>
-            <category>conference</category>
-            <pubDate>Sat, 17 Sep 2022 18:40:41 -0400</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34;&gt;&lt;a href=&#34;#HT-DTMF-x3D-Fun-Simple-Digital-Communication-for-Handheld-Transceivers&#34; class=&#34;headerlink&#34; title=&#34;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&#34;&gt;&lt;/a&gt;HT + DTMF &amp;#x3D; Fun: Simple Digital Communication for Handheld Transceivers&lt;/h2&gt;&lt;p&gt;Presentors: Zhemin Zhang KD2TAI&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1VwyWAMVfaRQOz8yNxs5SlrST_Bv64-HTUiovT-y2dvU&#34;&gt;Slides&lt;/a&gt; | &lt;a href=&#34;https://github.com/HisenZhang/DTMF-App&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Is it possible to send text and images by just dialing on your HT keypads? Have you ever wondered how the dial tones work? In this talk, we discuss a simple protocol to transfer data using your HTs by encoding information, including text, images, or arbitrary files, into DTMF tones: this minimal yet functioning setup serves as an introduction to modern digital communication systems.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/vhf-sep-22/</guid>
-            <title>VHF Contest September 2022</title>
-            <link>http://w2sz.github.io/post/vhf-sep-22/</link>
-            <category>contest</category>
-            <category>MGEF</category>
-            <pubDate>Thu, 15 Sep 2022 15:20:04 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8x7XT1H.jpg&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
