@@ -3,7 +3,7 @@
     <id>http://w2sz.github.io</id>
     <title>W2SZ</title>
     <link href="http://w2sz.github.io" />
-    <updated>2023-10-12T21:01:35.000Z</updated>
+    <updated>2023-10-31T13:43:55.000Z</updated>
     <category term="publication" />
     <category term="CW" />
     <category term="AD2BA Brian" />
@@ -21,6 +21,30 @@
     <category term="MGEF" />
     <category term="member" />
     <category term="AC2YD Ben" />
+    <entry>
+        <id>http://w2sz.github.io/post/coin-flip/</id>
+        <title>Trusted Coin Flip Protocol</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/coin-flip/"/>
+        <content type="html">&lt;style&gt;
+  .doc {
+    position: relative;
+    padding-bottom: 1%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;doc&#34;&gt;
+    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vTiq6sK964gUCc83_u8ewNfRbvdTNLfsUhms_mrPG7vQUugizS3MxQbYUsaSaKKjnOmzsAVhd0tFjku/pub?embedded=true&#34;
+            width=&#34;650&#34;
+            height=&#34;900&#34;
+            style=&#34;border:0;&#34;
+            allowfullscreen=&#34;&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+</content>
+        <updated>2023-10-31T13:43:55.000Z</updated>
+    </entry>
     <entry>
         <id>http://w2sz.github.io/post/reunion-week/</id>
         <title>Reunion Week</title>
@@ -68,13 +92,6 @@
     padding-bottom: 1%; // This is the aspect ratio
     height: 0;
     overflow: hidden;
-  }
-  .roster iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
   }
 &lt;/style&gt;
 
@@ -407,19 +424,5 @@
         <link rel="alternate" href="http://w2sz.github.io/post/fall-2022-group/"/>
         <content type="html"></content>
         <updated>2022-09-23T18:54:53.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://w2sz.github.io/post/fmbot-analysis/</id>
-        <title>Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/fmbot-analysis/"/>
-        <content type="html">&lt;p&gt;Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.&lt;/p&gt;
-</content>
-        <category term="publication" />
-        <category term="AD2BA Brian" />
-        <category term="conference" />
-        <category term="fm-bot" />
-        <category term="SDR" />
-        <category term="KD2TAI Hisen" />
-        <updated>2022-09-18T23:20:45.000Z</updated>
     </entry>
 </feed>

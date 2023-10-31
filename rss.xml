@@ -5,8 +5,8 @@
         <link>http://w2sz.github.io</link>
         <description>RPI Amateur Radio Club</description>
         <language>en</language>
-        <pubDate>Thu, 12 Oct 2023 17:01:35 -0400</pubDate>
-        <lastBuildDate>Thu, 12 Oct 2023 17:01:35 -0400</lastBuildDate>
+        <pubDate>Tue, 31 Oct 2023 09:43:55 -0400</pubDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:43:55 -0400</lastBuildDate>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
@@ -24,6 +24,30 @@
         <category>MGEF</category>
         <category>member</category>
         <category>AC2YD Ben</category>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/coin-flip/</guid>
+            <title>Trusted Coin Flip Protocol</title>
+            <link>http://w2sz.github.io/post/coin-flip/</link>
+            <pubDate>Tue, 31 Oct 2023 09:43:55 -0400</pubDate>
+            <description><![CDATA[ &lt;style&gt;
+  .doc {
+    position: relative;
+    padding-bottom: 1%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;doc&#34;&gt;
+    &lt;iframe src=&#34;https://docs.google.com/document/d/e/2PACX-1vTiq6sK964gUCc83_u8ewNfRbvdTNLfsUhms_mrPG7vQUugizS3MxQbYUsaSaKKjnOmzsAVhd0tFjku/pub?embedded=true&#34;
+            width=&#34;650&#34;
+            height=&#34;900&#34;
+            style=&#34;border:0;&#34;
+            allowfullscreen=&#34;&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/reunion-week/</guid>
             <title>Reunion Week</title>
@@ -72,13 +96,6 @@
     padding-bottom: 1%; // This is the aspect ratio
     height: 0;
     overflow: hidden;
-  }
-  .roster iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
   }
 &lt;/style&gt;
 
@@ -410,20 +427,6 @@
             <link>http://w2sz.github.io/post/fall-2022-group/</link>
             <pubDate>Fri, 23 Sep 2022 14:54:53 -0400</pubDate>
             <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/fmbot-analysis/</guid>
-            <title>Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions</title>
-            <link>http://w2sz.github.io/post/fmbot-analysis/</link>
-            <category>publication</category>
-            <category>AD2BA Brian</category>
-            <category>conference</category>
-            <category>fm-bot</category>
-            <category>SDR</category>
-            <category>KD2TAI Hisen</category>
-            <pubDate>Sun, 18 Sep 2022 19:20:45 -0400</pubDate>
-            <description><![CDATA[ &lt;p&gt;Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.&lt;/p&gt;
- ]]></description>
         </item>
     </channel>
 </rss>

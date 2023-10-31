@@ -5,6 +5,14 @@
     "home_page_url": "http://w2sz.github.io",
     "items": [
         {
+            "id": "http://w2sz.github.io/post/coin-flip/",
+            "url": "http://w2sz.github.io/post/coin-flip/",
+            "title": "Trusted Coin Flip Protocol",
+            "date_published": "2023-10-31T13:43:55.000Z",
+            "content_html": "<style>\n  .doc {\n    position: relative;\n    padding-bottom: 1%; // This is the aspect ratio\n    height: 0;\n    overflow: hidden;\n  }\n</style>\n\n<div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vTiq6sK964gUCc83_u8ewNfRbvdTNLfsUhms_mrPG7vQUugizS3MxQbYUsaSaKKjnOmzsAVhd0tFjku/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n",
+            "tags": []
+        },
+        {
             "id": "http://w2sz.github.io/post/reunion-week/",
             "url": "http://w2sz.github.io/post/reunion-week/",
             "title": "Reunion Week",
@@ -17,7 +25,7 @@
             "url": "http://w2sz.github.io/post/simplex-net/",
             "title": "W2SZ Simplex Net",
             "date_published": "2023-10-11T22:04:45.000Z",
-            "content_html": "<style>\n  .doc {\n    position: relative;\n    padding-bottom: 1%; // This is the aspect ratio\n    height: 0;\n    overflow: hidden;\n  }\n  .roster iframe {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100% !important;\n    height: 100% !important;\n  }\n</style>\n\n<h2 id=\"Introduction\"><a href=\"#Introduction\" class=\"headerlink\" title=\"Introduction\"></a>Introduction</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vSXyJTRKB10e63HyhsPSZvAfPnGsGH6vkCmPo3HYIKMqKkSK93WUdySYM69MEgKM3U9378qx7lkTJXD/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n\n<h2 id=\"Operating-Procedures\"><a href=\"#Operating-Procedures\" class=\"headerlink\" title=\"Operating Procedures\"></a>Operating Procedures</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vT1t_AvrASaYmjJXarbzpC2dqf7yYtvbDPsvlC5gxhBZ6D-hnf90DaHz9Qv_o7kRQd64XyiW6XBOn5v/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n\n<h2 id=\"Script\"><a href=\"#Script\" class=\"headerlink\" title=\"Script\"></a>Script</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vTVDD1JjftdAwD5aTHtNHLXs43AHOz126KoffIwsOGOx0F95muj-PVAgtZE5PLMwcX4R_KjskQRDm-E/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n",
+            "content_html": "<style>\n  .doc {\n    position: relative;\n    padding-bottom: 1%; // This is the aspect ratio\n    height: 0;\n    overflow: hidden;\n  }\n</style>\n\n<h2 id=\"Introduction\"><a href=\"#Introduction\" class=\"headerlink\" title=\"Introduction\"></a>Introduction</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vSXyJTRKB10e63HyhsPSZvAfPnGsGH6vkCmPo3HYIKMqKkSK93WUdySYM69MEgKM3U9378qx7lkTJXD/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n\n<h2 id=\"Operating-Procedures\"><a href=\"#Operating-Procedures\" class=\"headerlink\" title=\"Operating Procedures\"></a>Operating Procedures</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vT1t_AvrASaYmjJXarbzpC2dqf7yYtvbDPsvlC5gxhBZ6D-hnf90DaHz9Qv_o7kRQd64XyiW6XBOn5v/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n\n<h2 id=\"Script\"><a href=\"#Script\" class=\"headerlink\" title=\"Script\"></a>Script</h2><div class=\"doc\">\n    <iframe src=\"https://docs.google.com/document/d/e/2PACX-1vTVDD1JjftdAwD5aTHtNHLXs43AHOz126KoffIwsOGOx0F95muj-PVAgtZE5PLMwcX4R_KjskQRDm-E/pub?embedded=true\"\n            width=\"650\"\n            height=\"900\"\n            style=\"border:0;\"\n            allowfullscreen=\"\">\n    </iframe>\n</div>\n",
             "tags": []
         },
         {
@@ -191,21 +199,6 @@
             "date_published": "2022-09-23T18:54:53.000Z",
             "content_html": "",
             "tags": []
-        },
-        {
-            "id": "http://w2sz.github.io/post/fmbot-analysis/",
-            "url": "http://w2sz.github.io/post/fmbot-analysis/",
-            "title": "Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions",
-            "date_published": "2022-09-18T23:20:45.000Z",
-            "content_html": "<p>Z. Zhang and B. R. Callahan, “Preliminary Analysis of an AI-powered Transcription Bot for FM Transmissions,” Proceedings of the 41st Annual ARRL and TAPR Digital Communications Conference (DCC), Sept. 16-18, 2022.</p>\n",
-            "tags": [
-                "publication",
-                "AD2BA Brian",
-                "conference",
-                "fm-bot",
-                "SDR",
-                "KD2TAI Hisen"
-            ]
         }
     ]
 }
