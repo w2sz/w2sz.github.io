@@ -5,8 +5,8 @@
         <link>http://w2sz.github.io</link>
         <description>RPI Amateur Radio Club</description>
         <language>en</language>
-        <pubDate>Tue, 31 Oct 2023 09:43:55 -0400</pubDate>
-        <lastBuildDate>Tue, 31 Oct 2023 09:43:55 -0400</lastBuildDate>
+        <pubDate>Fri, 15 Dec 2023 08:33:47 -0500</pubDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:33:47 -0500</lastBuildDate>
         <category>publication</category>
         <category>CW</category>
         <category>AD2BA Brian</category>
@@ -24,6 +24,18 @@
         <category>MGEF</category>
         <category>member</category>
         <category>AC2YD Ben</category>
+        <category>KC3LXR Christian Kegel</category>
+        <item>
+            <guid isPermalink="true">http://w2sz.github.io/post/web-sstv/</guid>
+            <title>Web SSTV</title>
+            <link>http://w2sz.github.io/post/web-sstv/</link>
+            <category>SSTV</category>
+            <category>KC3LXR Christian Kegel</category>
+            <pubDate>Fri, 15 Dec 2023 08:33:47 -0500</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;a href=&#34;https://ckegel.github.io/Web-SSTV/&#34;&gt;Web SSTV&lt;/a&gt; aims to both encode and decode SSTV using plain JavaScript and Web Audio API. Web SSTV can be run entirely offline, and on any platform from Chromebooks to phones, so long as they support JavaScript and Web Audio. By making SSTV readily available on many platforms, we aim to create educational opportunities and introduce more people to STEM and amateur radio.&lt;/p&gt;
+&lt;p&gt;Web SSTV is currently hosted at &lt;a href=&#34;https://ckegel.github.io/Web-SSTV/&#34;&gt;https://ckegel.github.io/Web-SSTV/&lt;/a&gt;. Check out the source code at &lt;a href=&#34;https://github.com/CKegel/Web-SSTV&#34;&gt;https://github.com/CKegel/Web-SSTV&lt;/a&gt;. Contributions are welcome.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://w2sz.github.io/post/coin-flip/</guid>
             <title>Trusted Coin Flip Protocol</title>
@@ -421,13 +433,6 @@
             <link>http://w2sz.github.io/post/fall-2022-collegiate-qso-party/</link>
             <category>contest</category>
             <pubDate>Sun, 02 Oct 2022 15:20:04 -0400</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://w2sz.github.io/post/fall-2022-group/</guid>
-            <title>Fall 2022 Group</title>
-            <link>http://w2sz.github.io/post/fall-2022-group/</link>
-            <pubDate>Fri, 23 Sep 2022 14:54:53 -0400</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
     </channel>
