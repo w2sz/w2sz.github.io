@@ -3,7 +3,7 @@
     <id>http://w2sz.github.io</id>
     <title>W2SZ</title>
     <link href="http://w2sz.github.io" />
-    <updated>2023-12-15T13:33:47.000Z</updated>
+    <updated>2024-01-22T04:39:49.000Z</updated>
     <category term="publication" />
     <category term="CW" />
     <category term="AD2BA Brian" />
@@ -22,6 +22,27 @@
     <category term="member" />
     <category term="AC2YD Ben" />
     <category term="KC3LXR Christian Kegel" />
+    <entry>
+        <id>http://w2sz.github.io/post/flea-market-2024/</id>
+        <title>Flea at RPI - Electronics, PC, Radios!</title>
+        <link rel="alternate" href="http://w2sz.github.io/post/flea-market-2024/"/>
+        <content type="html">&lt;h2 id=&#34;Save-the-Date-W2SZ-Flea-at-RPI-2024&#34;&gt;&lt;a href=&#34;#Save-the-Date-W2SZ-Flea-at-RPI-2024&#34; class=&#34;headerlink&#34; title=&#34;Save the Date: W2SZ Flea at RPI 2024&#34;&gt;&lt;/a&gt;Save the Date: W2SZ Flea at RPI 2024&lt;/h2&gt;&lt;p&gt;Mark your calendars! The W2SZ Amateur Radio Club at RPI is excited to announce our upcoming electronics flea market event!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt;: Saturday, March 30th, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt;: Rensselaer Union McNeil Room (2nd floor lobby), 1761 15th St, Troy, NY 12180&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What&lt;/strong&gt;: Join us for a day packed with:&lt;ul&gt;
+&lt;li&gt;A bustling flea market showcasing a wide array of electronics, PC, radio, and unique vintage finds.&lt;/li&gt;
+&lt;li&gt;A special door prize with a cash reward, to be awarded on the day of the event!&lt;/li&gt;
+&lt;li&gt;Networking opportunities with local radio enthusiasts and clubs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whether you’re a student, a seasoned ham, or just curious about amateur radio, there’s something for everyone at the W2SZ Hamfest.&lt;/p&gt;
+&lt;p&gt;Stay tuned for updates!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:&amp;#x63;&amp;#111;&amp;#110;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#105;&amp;#x6f;&amp;#110;&amp;#64;&amp;#x77;&amp;#x32;&amp;#115;&amp;#122;&amp;#46;&amp;#111;&amp;#114;&amp;#x67;&#34;&gt;&amp;#x63;&amp;#111;&amp;#110;&amp;#118;&amp;#101;&amp;#110;&amp;#116;&amp;#105;&amp;#x6f;&amp;#110;&amp;#64;&amp;#x77;&amp;#x32;&amp;#115;&amp;#122;&amp;#46;&amp;#111;&amp;#114;&amp;#x67;&lt;/a&gt;&lt;/p&gt;
+</content>
+        <updated>2024-01-22T04:39:49.000Z</updated>
+    </entry>
     <entry>
         <id>http://w2sz.github.io/post/web-sstv/</id>
         <title>Web SSTV</title>
@@ -423,13 +444,5 @@
 </content>
         <category term="shack" />
         <updated>2022-12-16T18:15:08.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://w2sz.github.io/post/fall-2022-collegiate-qso-party/</id>
-        <title>Collegiate QSO Party</title>
-        <link rel="alternate" href="http://w2sz.github.io/post/fall-2022-collegiate-qso-party/"/>
-        <content type="html"></content>
-        <category term="contest" />
-        <updated>2022-10-02T19:20:04.000Z</updated>
     </entry>
 </feed>
