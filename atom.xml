@@ -186,7 +186,7 @@
   }
   .figure {
     position: relative;
-    padding-bottom: 100%; // This is the aspect ratio
+    padding-bottom: 60%; // This is the aspect ratio
     height: 100%;
     width: 100%;
     /* overflow: hidden; */
