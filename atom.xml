@@ -187,14 +187,16 @@
   .figure {
     position: relative;
     padding-bottom: 100%; // This is the aspect ratio
-    height: 0;
-    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    /* overflow: hidden; */
   }
   .figure iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100% !important;
+    height: 100% !important;
   }
 &lt;/style&gt;
 
@@ -207,12 +209,13 @@
     &lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;Statistics&#34;&gt;&lt;a href=&#34;#Statistics&#34; class=&#34;headerlink&#34; title=&#34;Statistics&#34;&gt;&lt;/a&gt;Statistics&lt;/h2&gt;&lt;div class=&#34;figure&#34;&gt;
-  &lt;iframe width=&#34;1080&#34; height=&#34;668&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=1170638492&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;Statistics&#34;&gt;&lt;a href=&#34;#Statistics&#34; class=&#34;headerlink&#34; title=&#34;Statistics&#34;&gt;&lt;/a&gt;Statistics&lt;/h2&gt;&lt;p&gt;The figures are manually updated yearly.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=1170638492&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;figure&#34;&gt;
-  &lt;iframe width=&#34;1080&#34; height=&#34;668&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=2088144757&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=2088144757&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </content>
         <category term="member" />
