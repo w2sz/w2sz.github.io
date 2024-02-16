@@ -31,7 +31,7 @@
             <link>http://w2sz.github.io/post/member/roster/</link>
             <category>member</category>
             <pubDate>Fri, 21 Apr 2023 00:00:00 -0400</pubDate>
-            <description><![CDATA[ &lt;blockquote&gt;
+            <description><![CDATA[ &lt;h2 id=&#34;The-Grand-Roster&#34;&gt;&lt;a href=&#34;#The-Grand-Roster&#34; class=&#34;headerlink&#34; title=&#34;The Grand Roster&#34;&gt;&lt;/a&gt;The Grand Roster&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The majority of entries (800+) are provided by &lt;a href=&#34;mailto:K1NKR@arrl.net&#34;&gt;James W. “Skip” Youngberg K1NKR&lt;/a&gt; through his decades of research. Also, &lt;a href=&#34;sstuart5@cox.net&#34;&gt;Steve Stuart N6IA&lt;/a&gt; informed hundreds of entries dated back to 1970-74.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We rely on crowd-sourcing to make information accurate and updated. To nominate a W2SZ-affiliated individual, fill out &lt;a href=&#34;https://forms.gle/drVtrJS7ywm9Vowy5&#34;&gt;this form&lt;/a&gt;. If you identify inaccuracies or own W2SZ archives, please &lt;a href=&#34;/contact&#34;&gt;email an officer&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -50,6 +50,18 @@
     width: 100% !important;
     height: 100% !important;
   }
+  .figure {
+    position: relative;
+    padding-bottom: 100%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+  }
+  .figure iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+  }
 &lt;/style&gt;
 
 &lt;div class=&#34;roster&#34;&gt;
@@ -59,6 +71,14 @@
             style=&#34;border:0;&#34;
             allowfullscreen=&#34;&#34;&gt;
     &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;Statistics&#34;&gt;&lt;a href=&#34;#Statistics&#34; class=&#34;headerlink&#34; title=&#34;Statistics&#34;&gt;&lt;/a&gt;Statistics&lt;/h2&gt;&lt;div class=&#34;figure&#34;&gt;
+  &lt;iframe width=&#34;1080&#34; height=&#34;668&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=1170638492&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;figure&#34;&gt;
+  &lt;iframe width=&#34;1080&#34; height=&#34;668&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRER2KQsRW1b2dKWpJ2qbakc1iI394ajAHZ-9zliKePRwI6RZHxRALrOR1uM6FWkd_xvKGqKlJ5czOF/pubchart?oid=2088144757&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
  ]]></description>
         </item>
